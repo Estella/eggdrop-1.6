@@ -1,3 +1,16 @@
+2004-06-09 17:43  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6:
+
+	* Hmm, how did that happen? Damn middle mouse button. =P 
+
+2004-06-09 17:34  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dcc.c, src/patch.h, src/tcl.c:
+
+	- Fix a possible issue with ident code.  
+	* Found by: various - Patch by: darko`` 
+
 2004-06-06 00:03  stdarg <stdarg@techmonkeys.org>
 
 	* INSTALL, INSTALL:
