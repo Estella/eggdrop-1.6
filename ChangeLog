@@ -1,3 +1,12 @@
+2004-01-12 07:49  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, config.h.in, configure, configure.ac, src/modules.c,
+	src/net.c, src/patch.h, src/compat/inet_aton.h:
+
+	* Use AC_FUNC_SELECT_ARGTYPES() macro to fix select() warnings on 
+	  several OS's. This is a better solution than the previous
+	  "OS_HACKS" #ifdefs.  
+
 2004-01-10 18:53  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/.cvsignore, scripts/.cvsignore, src/.cvsignore,
