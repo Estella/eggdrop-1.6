@@ -1,3 +1,31 @@
+2004-05-27 04:18  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/MODULES, doc/UPDATES1.6,
+	doc/html/mod-filesys.html, doc/settings/mod.filesys,
+	doc/settings/mod.notes, src/patch.h,
+	src/mod/ctcp.mod/help/ctcp.help,
+	src/mod/ctcp.mod/help/set/ctcp.help,
+	src/mod/filesys.mod/help/filesys.help,
+	src/mod/irc.mod/help/irc.help, src/mod/notes.mod/help/notes.help,
+	src/mod/seen.mod/help/seen.help, src/mod/share.mod/help/share.help:
+
+	* More help/docs.  
+
+2004-05-27 01:30  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/tcl-commands.doc, doc/html/mod-irc.html,
+	doc/html/tcl-commands.html, doc/settings/mod.irc, help/cmds2.help,
+	help/set/cmds1.help, scripts/help/userinfo.help, src/patch.h,
+	src/mod/assoc.mod/modinfo, src/mod/assoc.mod/help/assoc.help,
+	src/mod/channels.mod/help/channels.help,
+	src/mod/console.mod/help/console.help,
+	src/mod/filesys.mod/help/filesys.help, src/mod/irc.mod/modinfo,
+	src/mod/irc.mod/help/irc.help, src/mod/server.mod/help/server.help,
+	src/mod/woobie.mod/modinfo:
+
+	* Some help and doc stuff... wanted to go ahead and do a commit, but
+	more is coming in a few minutes.  
+
 2004-05-26 00:20  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/dccutil.c, src/main.c, src/main.h,
