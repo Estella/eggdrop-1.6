@@ -1,3 +1,9 @@
+2002-09-27 21:14  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	* Updated patch.h from stdarg's last commit.  
+
 2002-09-27 19:30  stdarg <stdarg@techmonkeys.org>
 
 	* eggdrop.simple.conf, src/chan.h, src/chanprog.c,
