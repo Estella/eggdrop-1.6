@@ -1,3 +1,9 @@
+2004-05-22 07:57  Will Buckner <wcc@techmonkeys.org>
+
+	* help/cmds1.help:
+
+	* Fix flags not lining up in .console's help. Found by BarkerJr.  
+
 2004-05-20 22:39  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/server.c:
