@@ -1,3 +1,9 @@
+2003-05-03 04:36  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: misc.c, patch.h:
+
+	* Fixed bug 302. Patch by TaKeDa. Found by eviler.  
+
 2003-04-30 03:47  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: misc.c, net.c, patch.h:
