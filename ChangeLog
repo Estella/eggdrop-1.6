@@ -1,3 +1,9 @@
+2003-02-15 08:59  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/users.c:
+
+	* Fixed an out-of-bounds error in delignore().  
+
 2003-02-13 23:56  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/html/mod-irc.html, doc/html/mod-server.html,
