@@ -1,3 +1,10 @@
+2003-05-07 00:23  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/html/mod-server.html, doc/settings/mod.server,
+	src/patch.h:
+
+	* IPv6 documentation updates.  
+
 2003-05-05 00:49  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/misc.c, src/patch.h:
