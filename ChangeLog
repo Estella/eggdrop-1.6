@@ -1,3 +1,10 @@
+2002-09-27 23:51  Will Buckner <wcc@techmonkeys.org>
+
+	* misc/addpatch:
+
+	Added the 'addpatch' utility to misc/ to simplify the editing of
+	patch.h.  
+
 2002-09-27 22:55  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/modules.c, src/patch.h, src/mod/module.h:
