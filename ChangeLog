@@ -1,3 +1,11 @@
+2003-01-18 01:58  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dccutil.c, src/modules.c, src/patch.h,
+	src/proto.h, src/tcldcc.c, src/mod/module.h:
+
+	Open file descriptors are now closed when the killdcc Tcl command is
+	used on a transfer socket. Found by fbs. Patch by fbs and Wcc.  
+
 2003-01-18 00:40  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/tclmisc.c:
