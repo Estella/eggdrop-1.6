@@ -1,3 +1,11 @@
+2002-08-15 04:51  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/patch.h, src/mod/transfer.mod/transfer.c:
+
+	Return 5 from dccsend if the file exists in the temp directory and
+	copy-to-tmp is enabled. Patch by Johoho (modified).  
+
 2002-08-15 01:45  Will Buckner <wcc@techmonkeys.org>
 
 	* configure, src/patch.h:
