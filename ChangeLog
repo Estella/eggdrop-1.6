@@ -1,3 +1,12 @@
+2002-09-22 18:10  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c,
+	src/mod/transfer.mod/transfer.c:
+
+	* Adding a missing killsock and lostdcc in eof_dcc_send() and
+	eof_dcc_get(). Patch by Eule.  
+	* Fixed indenting from auto-logic.  
+
 2002-09-22 09:22  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/irc.mod/chan.c:
