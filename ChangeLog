@@ -1,3 +1,24 @@
+2003-02-13 23:56  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/html/mod-irc.html, doc/html/mod-server.html,
+	doc/settings/mod.channels, doc/settings/mod.ctcp,
+	doc/settings/mod.dns, doc/settings/mod.filesys,
+	doc/settings/mod.irc, doc/settings/mod.notes,
+	doc/settings/mod.server, src/patch.h,
+	src/mod/assoc.mod/help/assoc.help,
+	src/mod/console.mod/help/console.help,
+	src/mod/console.mod/help/set/console.help,
+	src/mod/ctcp.mod/help/set/ctcp.help:
+
+	* More help/doc updates.  
+
+2003-02-13 23:39  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/cmds.c, src/patch.h:
+
+	Argument checking for cmd_comment() and cmd_botaddr() was incorrect.  
+	Found by Tothwolf.  
+
 2003-02-11 09:19  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/html/egg-core.html, doc/settings/core.settings,
