@@ -1,3 +1,15 @@
+2002-12-27 22:48  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf:
+
+	Forgot config updates from last commit.  
+
+2002-12-27 22:39  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/irc.c:
+
+	~Updated UnderNet's max_bans to 45. Found by reed.  
+
 2002-12-27 20:27  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-channels.html,
