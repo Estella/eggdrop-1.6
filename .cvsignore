@@ -8,7 +8,6 @@ config.status
 Makefile
 eggdrop
 lush.h
-aclocal.m4
 EGGMOD.stamp
 .known_modules
 .modules
