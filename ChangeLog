@@ -1,3 +1,25 @@
+2004-04-06 07:15  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/chanprog.c, src/patch.h:
+
+	* Rewrote isowner(). Patch by Sup.  
+
+2004-04-06 06:56  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/tcl-commands.doc, src/cmds.c, src/dcc.c, src/eggdrop.h,
+	src/language.c, src/main.c, src/match.c, src/misc.c, src/modules.c,
+	src/rfc1459.c, src/tcldcc.c, src/tclhash.c, src/tclmisc.c,
+	src/tcluser.c, src/mod/share.mod/share.c:
+
+	* Some trim-trailing-space/tab2space stuff.  
+
+2004-04-06 06:50  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/COMPILING-FAQ, doc/UPDATES1.6, doc/html/compiling.html,
+	src/patch.h:
+
+	* Doc stuff.  
+
 2004-04-05 23:35  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/BUG-REPORT, doc/COMPILING-FAQ, doc/UPDATES1.6,
