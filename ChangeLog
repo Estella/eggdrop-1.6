@@ -1,3 +1,12 @@
+2003-01-30 10:38  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/filesys.mod/files.c,
+	src/mod/filesys.mod/tclfiles.c:
+
+	* Use movefile() instead of copyfile() and unlink() when moving
+	  files in filesys.mod. Found by fbs. Note that the memory leak
+	  reported as bug 305 exists BEFORE this patch.  
+
 2003-01-30 07:15  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: bg.c, botcmd.c, botmsg.c, botnet.c, chanprog.c, cmds.c,
