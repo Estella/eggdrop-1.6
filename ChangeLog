@@ -1,3 +1,10 @@
+2002-08-08 06:57  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c:
+
+	Removed names parsing, as it causes many problems and was only added
+	for compatability with an old version of unrealircd.  
+
 2002-08-08 01:38  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/channels.c:
