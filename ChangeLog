@@ -1,3 +1,14 @@
+2003-01-21 00:53  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/main.c, src/misc.c, src/patch.h, src/tcl.c,
+	src/tclhash.c, src/mod/channels.mod/channels.c,
+	src/mod/filesys.mod/dbcompat.c, src/mod/irc.mod/chan.c,
+	src/mod/irc.mod/msgcmds.c, src/mod/server.mod/server.c,
+	src/mod/server.mod/servmsg.c, src/mod/uptime.mod/uptime.h,
+	src/mod/wire.mod/wire.c:
+
+	* Misc bugfixes and code cleanups. Patch by Matyas Koszik.  
+
 2003-01-21 00:11  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/dccutil.c, src/modules.c, src/tcl.c,
