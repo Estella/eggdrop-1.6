@@ -1,3 +1,53 @@
+2003-01-29 05:48  Will Buckner <wcc@techmonkeys.org>
+
+	* help/cmds1.help, help/cmds2.help, help/core.help, src/chanprog.c,
+	src/cmds.c, src/eggdrop.h, src/flags.h, src/lang.h, src/main.h,
+	src/misc.c, src/misc_file.c, src/modules.h, src/net.c, src/patch.h,
+	src/rfc1459.c, src/stat.h, src/tandem.h, src/tcl.c, src/tcldcc.c,
+	src/tclegg.h, src/tclhash.c, src/tclhash.h, src/users.h,
+	src/compat/gnu_strftime.c, src/compat/inet_aton.c,
+	src/compat/inet_aton.h, src/compat/memcpy.h, src/compat/memset.h,
+	src/compat/snprintf.c, src/compat/snprintf.h,
+	src/compat/strcasecmp.h, src/compat/strftime.c,
+	src/compat/strftime.h, src/md5/md5c.c, src/mod/module.h,
+	src/mod/modvals.h, src/mod/assoc.mod/assoc.c,
+	src/mod/assoc.mod/assoc.h, src/mod/assoc.mod/help/assoc.help,
+	src/mod/blowfish.mod/blowfish.h, src/mod/channels.mod/channels.c,
+	src/mod/channels.mod/channels.h, src/mod/channels.mod/cmdschan.c,
+	src/mod/channels.mod/tclchan.c, src/mod/channels.mod/userchan.c,
+	src/mod/channels.mod/help/chaninfo.help,
+	src/mod/channels.mod/help/channels.help,
+	src/mod/channels.mod/help/set/channels.help,
+	src/mod/compress.mod/compress.c, src/mod/compress.mod/compress.h,
+	src/mod/compress.mod/tclcompress.c, src/mod/console.mod/console.h,
+	src/mod/console.mod/help/console.help, src/mod/dns.mod/coredns.c,
+	src/mod/dns.mod/dns.h, src/mod/filesys.mod/filedb3.c,
+	src/mod/filesys.mod/filedb3.h, src/mod/filesys.mod/filesys.c,
+	src/mod/filesys.mod/help/filesys.help,
+	src/mod/filesys.mod/language/filesys.french.lang,
+	src/mod/irc.mod/chan.c, src/mod/irc.mod/irc.h,
+	src/mod/irc.mod/msgcmds.c, src/mod/irc.mod/help/irc.help,
+	src/mod/irc.mod/help/set/irc.help, src/mod/notes.mod/notes.h,
+	src/mod/notes.mod/help/notes.help,
+	src/mod/notes.mod/help/set/notes.help,
+	src/mod/notes.mod/language/notes.french.lang,
+	src/mod/seen.mod/help/seen.help,
+	src/mod/seen.mod/help/msg/seen.help, src/mod/server.mod/server.c,
+	src/mod/server.mod/server.h, src/mod/server.mod/help/server.help,
+	src/mod/server.mod/help/set/server.help, src/mod/share.mod/share.c,
+	src/mod/share.mod/share.h, src/mod/share.mod/uf_features.c,
+	src/mod/share.mod/help/share.help, src/mod/transfer.mod/transfer.c,
+	src/mod/transfer.mod/transfer.h,
+	src/mod/transfer.mod/language/transfer.english.lang,
+	src/mod/transfer.mod/language/transfer.french.lang,
+	src/mod/uptime.mod/uptime.c, src/mod/wire.mod/wire.h,
+	src/mod/woobie.mod/woobie.c:
+
+	* Removed unused define ASSOC_NOSUCHCMD.  
+	* More indenting.  
+	* Help file cleanups.  
+	* Fixed a warning from last commit.  
+
 2003-01-28 23:14  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/tcl-commands.doc, doc/html/egg-core.html,
