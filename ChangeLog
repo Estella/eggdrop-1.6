@@ -1,3 +1,9 @@
+2003-01-02 02:42  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/tcl-commands.doc, doc/html/tcl-commands.html, src/patch.h:
+
+	Doc updates from past commit.  
+
 2003-01-02 00:07  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/tcl-commands.doc, src/patch.h,
