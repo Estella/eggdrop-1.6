@@ -1,3 +1,9 @@
+2002-11-29 22:29  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: modules.c, patch.h, mod/module.h:
+
+	Fixes from export-md5. Found by BarkerJr.  
+
 2002-11-29 06:14  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/cmdsirc.c:
