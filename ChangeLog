@@ -1,3 +1,16 @@
+2004-06-12 21:00  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/flags.c, src/patch.h:
+
+	- Op (+o) implies halfop (+l) now.  
+	* Patch by: darko`` 
+
+2004-06-12 19:54  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: chanprog.c, patch.h:
+
+	* Part two of Sup's rmspace() optimization.  
+
 2004-06-12 01:24  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/chanprog.c, src/eggdrop.h, src/patch.h,
