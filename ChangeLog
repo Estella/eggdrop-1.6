@@ -1,3 +1,9 @@
+2003-03-24 07:29  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/: compiling.FAQ, html/compiling.html:
+
+	* Documented a problem I came accross on AIX...  
+
 2003-03-24 05:47  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/cmdschan.c:
