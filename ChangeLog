@@ -1,3 +1,10 @@
+2002-11-27 21:31  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/irc.c,
+	src/mod/irc.mod/irc.h:
+
+	Exported me_voice() in irc_table.  
+
 2002-11-23 19:40  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: chan.h, patch.h, mod/channels.mod/channels.c,
