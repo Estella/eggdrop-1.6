@@ -1,3 +1,10 @@
+2002-11-17 05:36  stdarg <stdarg@techmonkeys.org>
+
+	* src/tcl.c:
+
+	
+	* Fixed utf-8 handling for config string settings (e.g. realname) 
+
 2002-11-06 04:10  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, scripts/alltools.tcl, src/patch.h:
