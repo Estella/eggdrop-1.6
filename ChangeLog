@@ -1,3 +1,10 @@
+2003-03-12 08:42  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/filesys.mod/filedb3.c,
+	mod/filesys.mod/files.c:
+
+	* Fixed two more AlphaLinux warnings.  
+
 2003-03-11 06:12  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/irc.mod/cmdsirc.c:
