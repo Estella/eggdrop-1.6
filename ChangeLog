@@ -1,3 +1,11 @@
+2004-01-10 18:53  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/.cvsignore, scripts/.cvsignore, src/.cvsignore,
+	src/compat/.cvsignore, src/md5/.cvsignore, src/mod/.cvsignore,
+	src/mod/compress.mod/.cvsignore, src/mod/dns.mod/.cvsignore:
+
+	* .cvsignores 
+
 2004-01-10 08:41  Will Buckner <wcc@techmonkeys.org>
 
 	* language/core.danish.lang, language/core.english.lang,
