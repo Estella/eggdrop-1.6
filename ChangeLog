@@ -1,3 +1,15 @@
+2003-03-11 01:22  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, language/core.danish.lang,
+	language/core.english.lang, language/core.french.lang,
+	language/core.german.lang, src/lang.h, src/patch.h,
+	src/mod/channels.mod/userchan.c, src/mod/irc.mod/cmdsirc.c:
+
+	* Users with appropriate flags can now halfop and voice themselves.
+	  Patch by Eule, however I changed a few small things.  
+	* For some odd reason, userchan.c did not get updated from
+	mns_ban-fix.  
+
 2003-03-10 06:06  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, tcl.c:
