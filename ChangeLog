@@ -1,3 +1,9 @@
+2003-04-16 01:03  Jeff Fisher <guppy@techmonkeys.org>
+
+	* scripts/cmd_resolve.tcl:
+
+	couple of small things in cmd_resolve.tcl 
+
 2003-04-15 17:41  Jeff Fisher <guppy@techmonkeys.org>
 
 	* scripts/autobotchk:
