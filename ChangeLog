@@ -1,3 +1,14 @@
+2002-09-27 19:30  stdarg <stdarg@techmonkeys.org>
+
+	* eggdrop.simple.conf, src/chan.h, src/chanprog.c,
+	src/mod/irc.mod/chan.c, src/mod/irc.mod/tclirc.c:
+
+	
+	* Added some simple optimizations to user lookups. Only in effect
+	for hand2nick and chattr for now.  
+	* Added some basic sanity checks to eggdrop.simple.conf (credit for
+	ideas to slennox) 
+
 2002-09-22 18:10  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c,
