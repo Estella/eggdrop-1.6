@@ -1,3 +1,10 @@
+2003-08-16 16:41  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/server.mod/server.c:
+
+	
+	* H_notc used wrong handler. Fixed by PaulE@Blueyonder.co.uk 
+
 2003-08-06 18:17  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/transfer.mod/transfer.c:
