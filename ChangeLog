@@ -1,3 +1,9 @@
+2002-08-08 01:38  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/channels.c:
+
+	Fixed a crash in .status all (found by supers).  
+
 2002-08-07 22:05  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/cmdsirc.c:
