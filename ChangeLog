@@ -1,3 +1,9 @@
+2003-03-10 06:06  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, tcl.c:
+
+	* Script compatability for recently removed config file variables.  
+
 2003-03-10 05:57  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/channels.c,
