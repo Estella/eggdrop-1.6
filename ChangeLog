@@ -1,3 +1,14 @@
+2004-05-26 00:20  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dccutil.c, src/main.c, src/main.h,
+	src/misc.c, src/patch.h, src/tclmisc.c, src/mod/irc.mod/chan.c,
+	src/mod/server.mod/server.c, src/mod/server.mod/servmsg.c,
+	src/mod/share.mod/share.c:
+
+	- Use high-order bits for random numbers.  
+	- Cleaned up and optimized delay code in share.c.  
+	* Patch by: Sup 
+
 2004-05-24 19:14  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/server.c:
