@@ -1,3 +1,9 @@
+2003-03-06 05:19  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, md5/md5c.c:
+
+	* compat.h needs to be included in md5c.c.  
+
 2003-03-06 03:49  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/tcl.c, src/md5/md5c.c,
