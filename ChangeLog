@@ -1,3 +1,9 @@
+2003-02-16 06:36  Will Buckner <wcc@techmonkeys.org>
+
+	* configure, src/patch.h:
+
+	* Reverted to autoconf 2.54 due to problems on *BSD.  
+
 2003-02-15 19:42  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, users.c:
