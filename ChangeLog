@@ -1,3 +1,12 @@
+2003-02-03 09:48  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, src/patch.h,
+	src/mod/filesys.mod/files.c:
+
+	* Cleaned up stdarg's debugging stuff from last commit and changed
+	  patch.h and UPDATES1.6.  
+	* Fixed a bind in the config file (found by stdarg).  
+
 2003-02-03 09:18  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/filesys.mod/files.c:
