@@ -1,3 +1,16 @@
+2002-09-27 22:16  Will Buckner <wcc@techmonkeys.org>
+
+	* CONTENTS, INSTALL, Makefile.in, NEWS, README,
+	eggdrop.advanced.conf, eggdrop.complete.conf, eggdrop.conf,
+	eggdrop.simple.conf, doc/UPDATES1.6, doc/html/install.html,
+	doc/html/news.html, doc/html/readme.html, doc/man1/eggdrop.1:
+
+	Removed both eggdrop.simple.conf and eggdrop.advanced.conf, as many
+	people cannot find the proper settings in eggdrop.simple.conf and 
+	therefore mis-configure their bots. The advanced config was removed
+	due to the fact that the differences between eggdrop.advanced.conf
+	and eggdrop.complete.conf wrere minimal.  
+
 2002-09-27 21:14  Will Buckner <wcc@techmonkeys.org>
 
 	* src/patch.h:
