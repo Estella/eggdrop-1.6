@@ -1,3 +1,9 @@
+2004-04-13 03:57  Will Buckner <wcc@techmonkeys.org>
+
+	* README, doc/BUG-REPORT, doc/html/faqs.html, src/patch.h:
+
+	* Fixed some doc stuff.  
+
 2004-04-10 07:49  stdarg <stdarg@techmonkeys.org>
 
 	* src/md5/md5c.c:
