@@ -1,3 +1,9 @@
+2003-02-21 05:01  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/eggdrop.h, src/patch.h:
+
+	* Fixed uhost buffer length. Fixed by winkey.  
+
 2003-02-21 02:15  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/transfer.mod/transfer.c:
