@@ -1,3 +1,9 @@
+2003-03-24 02:18  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/channels.mod/tclchan.c:
+
+	* GRRRRR....  
+
 2003-03-24 01:52  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/tclchan.c:
