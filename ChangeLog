@@ -1,3 +1,10 @@
+2002-11-19 05:21  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/tclchan.c:
+
+	The argument variable added in the infointlist patch should not be
+	called argv.  
+
 2002-11-18 05:39  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf:
