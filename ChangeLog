@@ -1,3 +1,9 @@
+2003-03-19 00:13  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/irc.mod/cmdsirc.c:
+
+	* Removed an unused variable from last commit.  
+
 2003-03-18 21:23  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/irc.mod/cmdsirc.c:
