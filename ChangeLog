@@ -1,3 +1,10 @@
+2003-03-04 22:14  Will Buckner <wcc@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, config.h.in, configure, configure.in,
+	src/patch.h, src/compat/snprintf.c, src/compat/snprintf.h:
+
+	* Backported C99 snprintf() checking. Patch by Tothwolf.  
+
 2003-03-04 14:11  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/: patch.h, mod/module.h:
