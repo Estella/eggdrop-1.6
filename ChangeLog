@@ -1,3 +1,10 @@
+2002-10-28 03:29  Will Buckner <wcc@techmonkeys.org>
+
+	* src/net.c:
+
+	tcl.h shouldn't have been included in net.c (from encoding patch).
+	Found by R33D3R.  
+
 2002-10-23 04:11  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/mod/irc.mod/chan.c:
