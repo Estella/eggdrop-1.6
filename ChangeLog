@@ -1,3 +1,15 @@
+2002-09-01 05:17  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6:
+
+	Fixed a spelling error in UPDATES1.6.  
+
+2002-09-01 05:07  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
+
+	Using "channel set #chan chanmode $var" corrupted $var in Tcl8.x.  
+
 2002-08-31 00:39  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6:
