@@ -1,3 +1,10 @@
+2003-03-19 23:44  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/channels.c,
+	mod/channels.mod/userchan.c:
+
+	* Fixed a memleak in the channels module. Patch by Eule.  
+
 2003-03-19 23:04  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, eggdrop.conf:
