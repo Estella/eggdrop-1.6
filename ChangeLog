@@ -1,3 +1,17 @@
+2004-02-04 02:40  stdarg <stdarg@techmonkeys.org>
+
+	* src/: chanprog.c, match.c, userrec.c, mod/server.mod/server.c:
+
+	
+	* Fixed _wild_match() to not try to read before the beginning of the
+	mask 
+	* Changed correct_handle() to copy the handle onto itself, in case
+	  it's called like correct_handle(u->handle) 
+	* Changed rmspace to use memmove instead of strcpy; also made it
+	  more efficient (only 1 call to strlen) 
+	* queue_server() wasn't adding messages to the queue correctly...
+	doh! 
+
 2004-02-01 06:13  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, language/core.danish.lang,
