@@ -1,3 +1,15 @@
+2003-11-27 01:07  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/BOTNET, doc/BUG-REPORT, doc/tricks, doc/html/botnet.html,
+	help/cmds1.help, help/cmds2.help, language/core.danish.lang,
+	language/core.english.lang, language/core.french.lang, src/patch.h,
+	src/mod/channels.mod/help/channels.help,
+	src/mod/channels.mod/help/set/channels.help,
+	src/mod/share.mod/help/share.help,
+	src/mod/transfer.mod/help/set/transfer.help:
+
+	* More doc and help file cleanups. More coming.  
+
 2003-11-26 16:01  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/filesys.mod/filedb3.c:
