@@ -1,3 +1,9 @@
+2002-09-22 04:11  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: dcc.c, net.c, patch.h:
+
+	I applied the wrong version of sockfix.  
+
 2002-09-21 21:32  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/eggdrop.h, src/misc.c, src/patch.h:
