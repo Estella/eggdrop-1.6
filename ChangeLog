@@ -1,3 +1,9 @@
+2003-02-28 08:17  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/: main.h, patch.h, tclegg.h:
+
+	Moved new Tcl checks to main.h.  
+
 2003-02-28 07:20  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/tcl.c:
