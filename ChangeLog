@@ -1,3 +1,9 @@
+2003-03-19 23:04  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, eggdrop.conf:
+
+	* Removing and adding eggdrop.conf (doesn't show up in cvsweb).  
+
 2003-03-19 00:13  Will Buckner <wcc@techmonkeys.org>
 
 	* src/mod/irc.mod/cmdsirc.c:
