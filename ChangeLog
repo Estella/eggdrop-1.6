@@ -1,3 +1,9 @@
+2003-02-28 07:20  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/tcl.c:
+
+	utf_converter needed a Function cast.  
+
 2003-02-28 04:01  Will Buckner <wcc@techmonkeys.org>
 
 	* acconfig.h, aclocal.m4, config.h.in, configure, doc/UPDATES1.6,
