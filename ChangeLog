@@ -1,3 +1,17 @@
+2003-02-27 10:18  Tothwolf <tothwolf@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, configure.in, src/chanprog.c,
+	src/flags.c, src/main.c, src/main.h, src/modules.c, src/tcl.c,
+	src/tcldcc.c, src/tclegg.h, src/tclhash.c, src/tclmisc.c,
+	src/tcluser.c, src/userent.c, src/mod/channels.mod/channels.c,
+	src/mod/channels.mod/tclchan.c, src/mod/console.mod/console.c,
+	src/mod/filesys.mod/tclfiles.c, src/mod/irc.mod/irc.c,
+	src/mod/irc.mod/tclirc.c, src/mod/notes.mod/notes.c,
+	src/mod/server.mod/server.c, src/mod/server.mod/tclserv.c,
+	src/mod/transfer.mod/transferfstat.c:
+
+	Simplify TCL_MAJOR_VERSION/TCL_MINOR_VERSION checks.  
+
 2003-02-27 02:36  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c:
