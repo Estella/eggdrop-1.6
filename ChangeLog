@@ -1,3 +1,21 @@
+2003-03-16 05:04  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/mode.c:
+
+	* Channel keys are now handled correctly in flush_mode(). Patch by
+	Eule.  
+
+2003-03-16 05:01  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/mode.c:
+
+	* Patch by Sven Trenkel: 
+	  * Locking a channel key/limit now enforces it from being changed
+	    as well as unset.  
+	  * Don't bounce our own modes.  
+	  * q|q users can no longer obtain a channel voice, regardless of 
+	    +autovoice.  
+
 2003-03-16 04:49  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/server.mod/cmdsserv.c:
