@@ -1,3 +1,14 @@
+2003-02-11 09:19  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/html/egg-core.html, doc/settings/core.settings,
+	src/misc_file.c, src/patch.h:
+
+	* Commented the default listen command as suggested by Paladin at
+	  #eggdrop at UnderNet. This is due to the large ammount of users who
+	  do not change the default port, and then can't figure out what the
+	port number is, etc.  
+	* Fixed a typo in a header-comment in misc_file.c.  
+
 2003-02-10 00:25  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/userchan.c:
