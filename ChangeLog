@@ -1,3 +1,9 @@
+2003-03-16 04:49  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/server.mod/cmdsserv.c:
+
+	* Only show real-name of current server. Found by Paladin.  
+
 2003-03-13 01:05  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/dcc.c, src/patch.h:
