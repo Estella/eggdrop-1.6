@@ -1,3 +1,9 @@
+2003-01-30 02:49  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/filesys.mod/filesys.c:
+
+	* Fixed a segfault in do_dcc_send() in filesys.mod (found by Eule).  
+
 2003-01-30 01:00  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, src/patch.h:
