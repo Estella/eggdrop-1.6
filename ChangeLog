@@ -1,3 +1,10 @@
+2002-09-22 08:12  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c,
+	src/mod/irc.mod/irc.h:
+
+	Fixed the logic in check_this_member().  
+
 2002-09-22 04:11  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: dcc.c, net.c, patch.h:
