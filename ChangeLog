@@ -1,3 +1,9 @@
+2003-03-18 21:23  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/irc.mod/cmdsirc.c:
+
+	* Logic fixes to the has_flags-get_channel changes. Found by Eule.  
+
 2003-03-16 21:41  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/patch.howto, src/patch.h,
