@@ -1,3 +1,9 @@
+2003-06-09 01:49  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/mem.c, src/patch.h:
+
+	* Small fix to n_realloc(). Patch by Timothy Barbeisch.  
+
 2003-05-14 05:27  stdarg <stdarg@techmonkeys.org>
 
 	* src/compat/inet_ntop.h:
