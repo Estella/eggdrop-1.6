@@ -1,3 +1,15 @@
+2003-02-02 10:19  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-server.html,
+	doc/settings/mod.server, src/cmds.c, src/dcc.c, src/flags.c,
+	src/misc.c, src/modules.c, src/patch.h, src/tcl.c,
+	src/mod/module.h, src/mod/server.mod/server.c,
+	src/mod/server.mod/servmsg.c:
+
+	* Merged use-console-r and debug-output into one new setting named
+	raw-log.  
+	* Small indenting fix from a pls_bot_cosmetic.  
+
 2003-02-02 09:22  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
