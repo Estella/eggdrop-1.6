@@ -1,3 +1,15 @@
+2003-01-15 01:03  Will Buckner <wcc@techmonkeys.org>
+
+	* NEWS, eggdrop.conf, doc/UPDATES1.6, doc/tcl-commands.doc,
+	doc/html/mod-server.html, doc/html/news.html,
+	doc/html/tcl-commands.html, doc/settings/mod.server,
+	scripts/compat.tcl, src/patch.h, src/mod/server.mod/server.c,
+	src/mod/server.mod/servmsg.c,
+	src/mod/server.mod/help/set/server.help:
+
+	Removed strict-servernames. $server is now always the server's
+	realname and $serveraddress is it's server list entry.  
+
 2003-01-15 00:35  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
