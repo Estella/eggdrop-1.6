@@ -1,3 +1,10 @@
+2003-03-05 02:09  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/MODULES, misc/addpatch, src/patch.h:
+
+	* Updates to doc/MODULES.  
+	* Cosmetic updates to misc/addpatch.  
+
 2003-03-04 22:14  Will Buckner <wcc@techmonkeys.org>
 
 	* acconfig.h, aclocal.m4, config.h.in, configure, configure.in,
