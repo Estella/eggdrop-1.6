@@ -1,3 +1,9 @@
+2003-06-10 19:05  Will Buckner <wcc@techmonkeys.org>
+
+	* config.h.in, configure, src/patch.h:
+
+	* Autoconf 2.57 has problems on FreeBSD; reverting to autoconf 2.54.  
+
 2003-06-10 15:16  stdarg <stdarg@techmonkeys.org>
 
 	* acconfig.h, aclocal.m4, config.h.in, configure, src/main.c:
