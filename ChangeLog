@@ -1,3 +1,25 @@
+2003-01-18 00:40  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/tclmisc.c:
+
+	[unixtime] was not increased when eggdrop was blocked during a
+	series of in-line Tcl commands (due to 'now' not being increased
+	when blocked).  
+	
+	Example (before): 
+	  .tcl set foo1 [unixtime];after 1000; set foo2 [unixtime]; after 
+	  1000; set foo3 [unixtime];list $foo1 $foo2 $foo3 
+	
+	  Tcl: 1042850776 1042850776 1042850776 
+	
+	Example (after): 
+	  .tcl set foo1 [unixtime];after 1000; set foo2 [unixtime]; after 
+	  1000; set foo3 [unixtime];list $foo1 $foo2 $foo3 
+	
+	  Tcl: 1042850429 1042850430 1042850431 
+	
+	Found by never.  
+
 2003-01-15 01:42  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/irc.c,
