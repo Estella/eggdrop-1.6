@@ -1,3 +1,9 @@
+2002-08-11 18:45  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/chanprog.c, src/patch.h:
+
+	Fixed a possible exploit in reaffirm_owners(). Patch by poptix.  
+
 2002-08-10 02:24  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/irc.mod/mode.c:
