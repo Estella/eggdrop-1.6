@@ -1,3 +1,10 @@
+2003-05-12 23:57  Will Buckner <wcc@techmonkeys.org>
+
+	* misc/addpatch, src/patch.h, src/tclmisc.c:
+
+	* Updates to addpatch script.  
+	* Added a sanity check to previous patch.  
+
 2003-05-11 23:53  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/tclmisc.c:
