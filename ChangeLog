@@ -1,3 +1,9 @@
+2003-03-13 01:05  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dcc.c, src/patch.h:
+
+	* Reverted identd-safety.  
+
 2003-03-13 00:55  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/dcc.c, src/patch.h:
