@@ -1,3 +1,9 @@
+2003-03-08 07:47  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: botcmd.c, patch.h:
+
+	* Fixed the order of the bot command table. *HIDES IN CORNER* 
+
 2003-03-08 04:29  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, language/core.danish.lang,
