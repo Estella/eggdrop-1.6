@@ -1,3 +1,10 @@
+2003-11-26 16:01  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/filesys.mod/filedb3.c:
+
+	* Fixed a getdesc segfault when a file has no description. Patch by
+	  dw.  Found by R. Ramos.  
+
 2003-11-23 16:10  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/compiling.FAQ, doc/html/compiling.html, src/patch.h:
