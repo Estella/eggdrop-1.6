@@ -1,3 +1,19 @@
+2003-03-05 03:24  stdarg <stdarg@techmonkeys.org>
+
+	* src/compat/snprintf.c:
+
+	
+	* Get rid of HAVE_CTYPE_H check since we don't check for it in
+	configure 
+
+2003-03-05 03:15  stdarg <stdarg@techmonkeys.org>
+
+	* src/compat/snprintf.c:
+
+	
+	* compat code should not include main.h, since that pulls in nmalloc
+	"enforcement" 
+
 2003-03-05 02:39  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/cmdsserv.c,
