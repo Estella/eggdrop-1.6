@@ -1,3 +1,10 @@
+2004-04-07 13:00  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/misc.c, src/patch.h:
+
+	* Fixed a crash in putlog() that appears when timestamps are turned
+	  off.  Patch by darko``.  
+
 2004-04-06 07:15  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/chanprog.c, src/patch.h:
