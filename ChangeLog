@@ -1,3 +1,15 @@
+2003-02-02 21:13  Will Buckner <wcc@techmonkeys.org>
+
+	* help/core.help:
+
+	* More help file fixes (I'm not exactly sure how this happened..).  
+
+2003-02-02 21:08  Will Buckner <wcc@techmonkeys.org>
+
+	* help/core.help, src/patch.h:
+
+	* More help file fixes.  
+
 2003-02-02 18:36  Will Buckner <wcc@techmonkeys.org>
 
 	* src/mod/module.h:
