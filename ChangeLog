@@ -1,3 +1,9 @@
+2003-11-27 06:15  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/irc.mod/irc.c, mod/irc.mod/msgcmds.c:
+
+	* Fixes from last commit.  
+
 2003-11-27 05:48  Will Buckner <wcc@techmonkeys.org>
 
 	* src/mod/irc.mod/msgcmds.c:
