@@ -1,3 +1,12 @@
+2002-09-09 23:14  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, misc/modconfig, src/patch.h:
+
+	* Fixed a missing escape in some regexps in misc/modconfig. Patch by
+	darko``.  
+	* Gave credit to the right person in UPDATES1.6 for the invite_fix
+	patch.  
+
 2002-09-01 05:17  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6:
