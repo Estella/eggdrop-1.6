@@ -1,3 +1,10 @@
+2003-01-31 08:02  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/egg-core.html,
+	doc/settings/core.settings, src/patch.h, src/tcl.c, src/tcldcc.c:
+
+	Removed the enable-simul config file setting.  
+
 2003-01-31 07:26  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/html/egg-core.html, doc/settings/core.settings,
