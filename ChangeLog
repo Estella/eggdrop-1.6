@@ -1,3 +1,34 @@
+2003-02-04 11:15  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/mode.c:
+
+	Fixed a me_op() logic problem when reversing in got_[op|halfop]().  
+
+2003-02-04 11:11  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	* Forgot patch.h.  
+
+2003-02-04 11:10  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/server.mod/servmsg.c:
+
+	* x(serverlist entry)->realname in got001() should be set before
+	  anything that could utilize x->realname is called. Test this! 
+
+2003-02-04 11:07  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/misc.c, src/modules.c, src/patch.h,
+	src/proto.h, src/mod/module.h, src/mod/irc.mod/chan.c,
+	src/mod/irc.mod/irc.c, src/mod/irc.mod/tclirc.c:
+
+	If revengebot/revenge is enabled for a channel, and a ban is placed
+	on a user not running ident, if strict-host is 0 a non-matching
+	banmask will be placed on the channel (because strict-host is
+	incorrectly used on bans in maskhost()). strict-host is for user
+	records, not bans. Patch by |SmAsH|.  
+
 2003-02-04 10:21  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/html/mod-channels.html, doc/settings/CONTENTS,
