@@ -1,3 +1,10 @@
+2003-01-28 07:52  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, src/patch.h:
+
+	Moved debug-output and use-console-r to the logging section of the
+	config file and updated config documentation. Found by Tothwolf.  
+
 2003-01-28 06:54  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6:
