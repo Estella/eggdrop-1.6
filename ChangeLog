@@ -1,3 +1,28 @@
+2003-11-01 20:04  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
+
+	* BarkerJr: 
+	  > This makes the errors display nicer.  
+	  > 
+	  > illegal channel option: +testillegal channel option:
+	  +test2illegal > channel option: +test3 
+	  > 
+	  > vs.  
+	  > 
+	  > illegal channel option: +test 
+	  > illegal channel option: +test2 
+	  > illegal channel option: +test3 
+	  > 
+	  > Just added a little "\n" 
+
+2003-11-01 20:00  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h,
+	src/mod/channels.mod/help/channels.help:
+
+	* .chanset accepts '*'; reflect in the docs. Patch by Johoho.  
+
 2003-10-04 00:53  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/tcluser.c:
