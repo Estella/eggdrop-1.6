@@ -1,3 +1,42 @@
+2004-05-27 06:29  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-compress.html,
+	doc/settings/mod.compress, help/core.help, src/misc.c, src/patch.h,
+	src/mod/compress.mod/help/set/compress.help,
+	src/mod/irc.mod/help/irc.help:
+
+	* Part 4 of doc stuff.. more will come tomorrow.  
+
+2004-05-27 05:33  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: net.c, patch.h, mod/wire.mod/wire.c:
+
+	* Fixed a missing alarm call (removed accidentally with IPv6).  
+
+2004-05-27 05:23  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/MODULES, doc/settings/CONTENTS,
+	doc/settings/core.settings, doc/settings/mod.assoc,
+	doc/settings/mod.blowfish, doc/settings/mod.channels,
+	doc/settings/mod.compress, doc/settings/mod.console,
+	doc/settings/mod.ctcp, doc/settings/mod.dns,
+	doc/settings/mod.filesys, doc/settings/mod.irc,
+	doc/settings/mod.notes, doc/settings/mod.seen,
+	doc/settings/mod.server, doc/settings/mod.share,
+	doc/settings/mod.transfer, doc/settings/mod.uptime,
+	doc/settings/mod.wire, doc/settings/mod.woobie, src/patch.h,
+	src/mod/compress.mod/help/compress.help,
+	src/mod/ctcp.mod/help/ctcp.help, src/mod/irc.mod/help/irc.help,
+	src/mod/server.mod/help/server.help,
+	src/mod/share.mod/help/share.help, src/mod/transfer.mod/modinfo,
+	src/mod/transfer.mod/help/transfer.help,
+	src/mod/transfer.mod/help/set/transfer.help,
+	src/mod/uptime.mod/modinfo, src/mod/uptime.mod/uptime.c,
+	src/mod/wire.mod/wire.c, src/mod/uptime.mod/help/uptime.help,
+	src/mod/wire.mod/help/wire.help:
+
+	* Doc stuff part 3.  
+
 2004-05-27 04:18  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/MODULES, doc/UPDATES1.6,
