@@ -1,3 +1,15 @@
+2004-01-09 09:48  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/mod/server.mod/server.c:
+
+	[no log message] 
+
+2004-01-09 08:23  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, src/patch.h, src/mod/server.mod/server.c:
+
+	* A few server-queuing fixes.. this might fix bug 379; please test.  
+
 2004-01-09 05:56  Will Buckner <wcc@techmonkeys.org>
 
 	* .cvsignore, CONTENTS, FEATURES, INSTALL, NEWS, README, configure,
