@@ -1,3 +1,11 @@
+2003-08-06 18:17  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/transfer.mod/transfer.c:
+
+	
+	* Check to make sure file we want to send exists; found by fabulous
+	at brasnet.org 
+
 2003-07-31 02:50  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/mod/irc.mod/msgcmds.c:
