@@ -1,3 +1,15 @@
+2004-04-09 04:18  Will Buckner <wcc@techmonkeys.org>
+
+	* configure, configure.ac, doc/UPDATES1.6, src/patch.h:
+
+	* Detect Tcl 8.5. Patch by Juvenal.  
+
+2004-04-09 02:33  Will Buckner <wcc@techmonkeys.org>
+
+	* misc/releaseprep:
+
+	* Wrote a small release-prep script.  
+
 2004-04-08 00:54  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
