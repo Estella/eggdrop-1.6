@@ -1,3 +1,13 @@
+2003-03-10 05:26  Will Buckner <wcc@techmonkeys.org>
+
+	* NEWS, doc/AUTHORS, doc/BANS, doc/PARTYLINE, doc/USERS,
+	doc/WEIRD-MESSAGES, doc/compiling.FAQ, doc/html/app-weird.html,
+	doc/html/compiling.html, doc/html/news.html, src/botcmd.c,
+	src/patch.h:
+
+	* Doc updates.  
+	* Fixed indenting from handshakefix.  
+
 2003-03-08 07:47  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: botcmd.c, patch.h:
