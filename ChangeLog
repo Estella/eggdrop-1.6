@@ -1,3 +1,11 @@
+2002-11-21 07:59  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, tcl.c, mod/channels.mod/channels.c,
+	mod/channels.mod/tclchan.c, mod/irc.mod/irc.c,
+	mod/server.mod/server.c:
+
+	Fixed the remaining Tcl 8.4 warnings.  
+
 2002-11-19 05:21  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/tclchan.c:
