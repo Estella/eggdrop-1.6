@@ -1,3 +1,9 @@
+2003-03-24 05:47  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/cmdschan.c:
+
+	* Fixed access checking in -ban, -exempt, and -invite.  
+
 2003-03-24 02:48  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/tclchan.c:
