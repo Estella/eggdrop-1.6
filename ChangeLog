@@ -1,3 +1,39 @@
+2004-06-11 19:17  Will Buckner <wcc@techmonkeys.org>
+
+	* configure:
+
+	* Run autoconf from last commit.  
+
+2004-06-11 19:16  Will Buckner <wcc@techmonkeys.org>
+
+	* configure.ac, doc/UPDATES1.6, src/patch.h:
+
+	* Updated recomended Tcl version to 8.4.6.  
+
+2004-06-11 18:40  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/COMPILING-FAQ, doc/html/compiling.html, src/patch.h:
+
+	* Added the FreeBSD 'permission denied' problem to the COMPILE-FAQ.
+	  I think we should rename that probably since it's not an FAQ. I
+	  thought I renamed it to COMPILE-GUIDE in 1.6.16....  
+
+2004-06-11 17:55  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6:
+
+	[no log message] 
+
+2004-06-11 17:46  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/botcmd.c, src/patch.h, src/tcldcc.c:
+
+	- Fix behavior of the BCST bind. BCST is now correctly triggered for 
+	  dccbroadcasts, as well as when a bot "says" something on a
+	  channel.  See doc/tcl-commands.doc for more information.  
+	* Found by: FireEgl - Patch by: Wingman 
+
 2004-06-11 06:06  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: botnet.c, dccutil.c, patch.h:
