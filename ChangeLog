@@ -1,3 +1,41 @@
+2003-11-01 23:26  Will Buckner <wcc@techmonkeys.org>
+
+	* NEWS, acconfig.h, aclocal.m4, config.h.in, configure,
+	configure.in, eggdrop.conf, doc/IPV6, doc/UPDATES1.6,
+	doc/html/egg-core.html, doc/html/ipv6.html,
+	doc/html/mod-server.html, doc/html/news.html,
+	doc/settings/core.settings, doc/settings/mod.server,
+	src/Makefile.in, src/botnet.c, src/cmds.c, src/dcc.c,
+	src/eggdrop.h, src/main.c, src/modules.c, src/net.c, src/patch.h,
+	src/proto.h, src/tcl.c, src/tcldcc.c, src/tclmisc.c,
+	src/compat/Makefile.in, src/compat/compat.h,
+	src/compat/inet_ntop.c, src/compat/inet_ntop.h,
+	src/md5/Makefile.in, src/mod/Makefile.in, src/mod/module.h,
+	src/mod/assoc.mod/Makefile, src/mod/blowfish.mod/Makefile,
+	src/mod/channels.mod/Makefile, src/mod/compress.mod/Makefile.in,
+	src/mod/console.mod/Makefile, src/mod/ctcp.mod/Makefile,
+	src/mod/dns.mod/Makefile.in, src/mod/dns.mod/configure,
+	src/mod/dns.mod/configure.in, src/mod/dns.mod/dns.c,
+	src/mod/filesys.mod/Makefile, src/mod/filesys.mod/filesys.c,
+	src/mod/irc.mod/Makefile, src/mod/notes.mod/Makefile,
+	src/mod/seen.mod/Makefile, src/mod/server.mod/Makefile,
+	src/mod/server.mod/server.c, src/mod/server.mod/servmsg.c,
+	src/mod/share.mod/Makefile, src/mod/share.mod/share.c,
+	src/mod/transfer.mod/Makefile, src/mod/transfer.mod/transfer.c,
+	src/mod/uptime.mod/Makefile, src/mod/wire.mod/Makefile,
+	src/mod/woobie.mod/Makefile:
+
+	* Remove IPv6 for now. I know we've discussed this on the lists and
+	  in #eggdrop/#eggdev on Undernet, and I think we pretty much agreed
+	  (as far as 'agreeing' goes on eggdev anyway ;p) to ditch this hacked
+	  togeather code and get Ian's code tested and put that in an upcoming
+	  release instead.  IPv6 realllyyyyyyy screwed up .15. I'm basically
+	  ready to release .16..  can anyone think of anything else that needs
+	  to be done? Bugzilla is dead and i'm not sure if eggdev's up or not,
+	  but changes appears to work. The lists have been down alot lately.
+	  Anyway, e-mail me if I forgot any little pieces, but I don't think I
+	did. -- Wcc 
+
 2003-11-01 20:04  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
