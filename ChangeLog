@@ -1,3 +1,13 @@
+2003-08-20 04:52  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/cmdschan.c, mod/irc.mod/chan.c,
+	mod/irc.mod/mode.c:
+
+	* Patch by Sven Trenkel: 
+	  * Fixed '.-ban number #channel' bug (bug 348).  
+	    * Found by R. Brooklyn.  
+	  * Small fixes to fakemode-kick code.  
+
 2003-08-18 18:37  Tothwolf <tothwolf@techmonkeys.org>
 
 	* doc/UPDATES1.6:
