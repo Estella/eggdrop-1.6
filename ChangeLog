@@ -1,3 +1,23 @@
+2002-10-23 04:11  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/mod/irc.mod/chan.c:
+
+	Don't ban users when not going to kick in refresh_ban_kick(). Patch
+	by Eule.  
+
+2002-10-23 04:06  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, src/mod/server.mod/server.c:
+
+	Added a stacking limit for fastdeq. Patch by Eule.  
+
+2002-10-23 04:03  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, src/net.c, src/tcl.c:
+
+	Fixed a UTF problem with scandinavian characters. Patch by Pauli
+	Borodulin.  
+
 2002-10-11 01:59  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, users.c:
