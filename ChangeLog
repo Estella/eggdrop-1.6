@@ -1,3 +1,11 @@
+2003-08-16 20:12  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dcc.c, src/modules.c, src/patch.h,
+	src/proto.h, src/mod/module.h:
+
+	* Exported strip_mirc_codes() and check_ansi(). This closes bug 361.
+	  Found by BarkerJr.  
+
 2003-08-16 16:41  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/server.mod/server.c:
