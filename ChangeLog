@@ -1,3 +1,13 @@
+2003-03-05 02:39  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/cmdsserv.c,
+	src/mod/server.mod/server.c, src/mod/server.mod/servmsg.c:
+
+	* Fixed an issue causing the server variable to be empty after a
+	  rehash.  Fixed by Sven Trenkel. Sound by |SmAsH|.  
+	* Fixed a crash that can happen when the serverlist contains null
+	  strings.  Fixed by Sven Trenkel.  
+
 2003-03-05 02:09  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/MODULES, misc/addpatch, src/patch.h:
