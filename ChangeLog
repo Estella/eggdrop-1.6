@@ -1,3 +1,9 @@
+2003-01-31 11:50  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/: patch.h, tcldcc.c:
+
+	Sanity check tcl_dccsimul args before checking idx.  
+
 2003-01-31 08:02  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, doc/html/egg-core.html,
