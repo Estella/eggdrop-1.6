@@ -1,3 +1,16 @@
+2003-02-04 10:21  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/html/mod-channels.html, doc/settings/CONTENTS,
+	doc/settings/core.settings, doc/settings/mod.channels,
+	doc/settings/mod.server, help/cmds1.help, help/core.help,
+	scripts/compat.tcl, src/cmds.c, src/patch.h,
+	src/mod/assoc.mod/help/assoc.help,
+	src/mod/channels.mod/help/channels.help:
+
+	* More help file/documentation cleanups/updates.  
+	* Removed 'nick'and 'chnick' bindings from compat.tcl because they
+	  were never removed from the internal bind table.  
+
 2003-02-04 08:23  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/filesys.mod/files.c:
