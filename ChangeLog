@@ -1,3 +1,10 @@
+2002-08-24 17:29  Will Buckner <wcc@techmonkeys.org>
+
+	* Makefile.in, aclocal.m4, configure, configure.in, doc/UPDATES1.6,
+	misc/check_tclversion.c:
+
+	Reverted tcl-rpath for now.  
+
 2002-08-21 02:37  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: botcmd.c, patch.h:
