@@ -1,3 +1,16 @@
+2004-01-09 12:23  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/server.mod/server.c:
+
+	* Oops.  
+
+2004-01-09 12:07  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: misc.c, modules.c, net.c, patch.h, proto.h, mod/module.h,
+	mod/server.mod/server.c:
+
+	* Make sure we append \r\n to irc messages.  
+
 2004-01-09 09:48  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/mod/server.mod/server.c:
