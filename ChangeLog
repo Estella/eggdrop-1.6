@@ -1,3 +1,10 @@
+2003-01-02 00:07  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, src/patch.h,
+	src/mod/server.mod/servmsg.c:
+
+	Fixed parsing of userhosts in gotwall(). Patch by darko``.  
+
 2002-12-27 22:48  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf:
