@@ -1,3 +1,9 @@
+2002-12-24 03:10  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, src/patch.h:
+
+	Small cosmetic fix to configure.  
+
 2002-12-24 02:30  Will Buckner <wcc@techmonkeys.org>
 
 	* CONTENTS, FEATURES, INSTALL, NEWS, README, doc/ABOUT,
