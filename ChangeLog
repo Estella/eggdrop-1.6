@@ -1,3 +1,37 @@
+2004-04-09 20:16  Will Buckner <wcc@techmonkeys.org>
+
+	* misc/releaseprep:
+
+	* Small fix to releaseprep... was making ./configure -x.  
+
+2004-04-09 18:38  Will Buckner <wcc@techmonkeys.org>
+
+	* misc/releaseprep:
+
+	* Small fix.  
+
+2004-04-09 18:31  Will Buckner <wcc@techmonkeys.org>
+
+	* Makefile.in, misc/releaseprep:
+
+	* More releaseprep changes.  
+
+2004-04-09 18:06  Will Buckner <wcc@techmonkeys.org>
+
+	* misc/releaseprep:
+
+	* More releaseprep stuff.  
+
+2004-04-09 18:00  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h,
+	src/mod/notes.mod/language/notes.danish.lang,
+	src/mod/notes.mod/language/notes.english.lang,
+	src/mod/notes.mod/language/notes.french.lang,
+	src/mod/notes.mod/language/notes.german.lang:
+
+	* Missing \n in some notes files. Found by dollar.  
+
 2004-04-09 04:18  Will Buckner <wcc@techmonkeys.org>
 
 	* configure, configure.ac, doc/UPDATES1.6, src/patch.h:
