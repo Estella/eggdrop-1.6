@@ -1,3 +1,11 @@
+2003-01-23 02:41  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/eggdrop.h, src/main.c, src/patch.h,
+	src/tclmisc.c, src/mod/filesys.mod/filedb3.h,
+	src/mod/seen.mod/seen.c, src/mod/wire.mod/wire.c:
+
+	* Fixed a few header problems related to time.h. Patch by Tothwolf.  
+
 2003-01-23 02:13  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-server.html,
