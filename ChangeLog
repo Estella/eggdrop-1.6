@@ -1,3 +1,10 @@
+2003-02-28 23:07  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/transfer.mod/transfer.c:
+
+	* Kill a transfer connection after sending a TRANSFER_DCC_IGNORED
+	  notice to a user. Found by fbs.  
+
 2003-02-28 12:45  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
