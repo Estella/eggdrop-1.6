@@ -1,3 +1,10 @@
+2003-02-05 03:05  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: dccutil.c, patch.h:
+
+	* Fixed a bug in killtransfer causing it to delete the original file
+	  if copy_to_temp is disabled. Found by fbs.  
+
 2003-02-04 11:15  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/mode.c:
