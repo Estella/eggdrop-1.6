@@ -1,3 +1,10 @@
+2004-02-25 23:08  stdarg <stdarg@techmonkeys.org>
+
+	* src/chanprog.c:
+
+	
+	* rmspace workaround for constant arguments 
+
 2004-02-14 20:11  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/notes.mod/notes.c:
