@@ -1,3 +1,9 @@
+2003-03-01 23:31  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/html/tcl-commands.html:
+
+	* Small doc fix.  
+
 2003-03-01 08:31  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/chan.h, src/patch.h:
