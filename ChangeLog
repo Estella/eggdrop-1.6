@@ -1,3 +1,11 @@
+2002-08-08 20:49  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botnet.c, src/cmds.c, src/dccutil.c,
+	src/patch.h, src/users.c, src/mod/irc.mod/cmdsirc.c:
+
+	Eggdrop should now compile on systems without snprintf(). Patch by
+	BHAB.  
+
 2002-08-08 19:31  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c:
