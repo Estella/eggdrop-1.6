@@ -1,3 +1,14 @@
+2003-08-18 03:27  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-irc.html,
+	doc/html/mod-server.html, doc/settings/mod.irc,
+	doc/settings/mod.server, src/patch.h, src/mod/irc.mod/irc.c,
+	src/mod/server.mod/server.h,
+	src/mod/server.mod/help/set/server.help:
+
+	* Made appropriate changes to accommodate for EFnet's implementation
+	  of exempts and invites.  
+
 2003-08-16 23:22  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6:
