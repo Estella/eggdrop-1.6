@@ -1,3 +1,10 @@
+2003-01-30 22:39  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/userchan.c:
+
+	Fixed a crash in u_delban (bug 267) caused by trying to strcpy to an 
+	initialized pointer char. Found by Cosmo.  
+
 2003-01-30 10:38  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/filesys.mod/files.c,
