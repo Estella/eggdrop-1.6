@@ -1,3 +1,11 @@
+2003-03-16 21:41  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/patch.howto, src/patch.h,
+	src/mod/filesys.mod/files.c:
+
+	* Fixed a crash related to the cd command in filesys.mod. Patch by
+	  Matyas Koszik.  
+
 2003-03-16 05:04  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/mode.c:
