@@ -1,3 +1,9 @@
+2003-02-27 12:15  Will Buckner <wcc@techmonkeys.org>
+
+	* config.h.in, configure, src/patch.h:
+
+	* Ran autoheader and autoconf for last commit.  
+
 2003-02-27 10:18  Tothwolf <tothwolf@techmonkeys.org>
 
 	* acconfig.h, aclocal.m4, configure.in, src/chanprog.c,
