@@ -1,3 +1,15 @@
+2002-11-18 05:39  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf:
+
+	Fixed a small typo in eggdrop.conf.  
+
+2002-11-18 05:38  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/MODULES, doc/UPDATES1.6, src/patch.h:
+
+	Updates to doc/MODULES. Patch by BarkerJr.  
+
 2002-11-18 03:53  stdarg <stdarg@techmonkeys.org>
 
 	* src/tcl.c:
