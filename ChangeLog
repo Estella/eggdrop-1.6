@@ -1,3 +1,11 @@
+2003-10-04 00:53  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/tcluser.c:
+
+	* Fixed bug 365 (missing call to check_this_user in tcl_setuser).
+	  Patch by Eule. Bugzilla is dead, can't credit the finder till it's
+	  up. I'd like to get .16 out soon; what else needs to be done? 
+
 2003-08-21 02:02  Tothwolf <tothwolf@techmonkeys.org>
 
 	* doc/UPDATES1.6:
