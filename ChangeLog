@@ -1,3 +1,10 @@
+2003-02-02 18:24  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/help/channels.help,
+	mod/server.mod/servmsg.c:
+
+	* Sorry, should compile now.  
+
 2003-02-02 10:19  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-server.html,
