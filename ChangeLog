@@ -1,3 +1,10 @@
+2004-04-08 00:54  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
+
+	- Fixed a crash in savechannels/loadchannels.  
+	  Found by: Stu Jones - Patch by: TaKeDa 
+
 2004-04-07 13:00  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/misc.c, src/patch.h:
