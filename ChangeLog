@@ -1,3 +1,9 @@
+2003-02-04 07:51  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	* Added patch.h for filesys crash.  
+
 2003-02-04 07:10  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/filesys.mod/files.c:
