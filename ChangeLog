@@ -1,3 +1,10 @@
+2003-02-03 09:18  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/filesys.mod/files.c:
+
+	
+	* Fixed filesys leak, be sure to test a lot! 
+
 2003-02-03 08:37  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/filesys.mod/files.c:
