@@ -1,3 +1,10 @@
+2003-03-07 03:27  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/server.mod/: server.c, servmsg.c:
+
+	
+	* minor realservername fixes 
+
 2003-03-06 05:19  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, md5/md5c.c:
