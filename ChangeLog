@@ -1,3 +1,9 @@
+2003-03-11 06:12  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/irc.mod/cmdsirc.c:
+
+	* Small indenting fixes from last commit.  
+
 2003-03-11 01:41  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, tcl.c:
