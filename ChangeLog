@@ -1,3 +1,15 @@
+2003-03-07 12:38  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/transfer.mod/transfer.h,
+	src/mod/transfer.mod/language/transfer.danish.lang,
+	src/mod/transfer.mod/language/transfer.english.lang,
+	src/mod/transfer.mod/language/transfer.german.lang:
+
+	* Added a german language file for the transfer module. Translation
+	by Felix.  
+	* Fixed a typo in transfer.h.  
+	* Fixed CVS Id: tags in transfer language files.  
+
 2003-03-07 07:02  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/cmdschan.c,
