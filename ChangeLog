@@ -6898,7 +6898,7 @@
 
 	* doc/html/faq1.html:
 
-	Missing Id tag and newline at end of file 
+	Missing $Id$ tag and newline at end of file 
 
 2000-07-11 17:03  Tothwolf <tothwolf@techmonkeys.org>
 
