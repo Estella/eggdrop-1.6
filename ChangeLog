@@ -1,3 +1,21 @@
+2002-10-11 01:59  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, users.c:
+
+	laston in whois should not be fixed-length. Patch by BarkerJr.  
+
+2002-10-11 01:39  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	Forgot patch.h on last commit.  
+
+2002-10-11 01:37  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/html/mod-irc.html, src/misc.c:
+
+	strftime() needs to be egg_strftime().  
+
 2002-10-08 04:25  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-irc.html,
