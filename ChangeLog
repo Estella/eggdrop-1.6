@@ -1,3 +1,16 @@
+2002-09-21 20:55  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dcc.c, src/net.c, src/patch.h:
+
+	Fixed a problem with 'connect' and 'control' where the script would
+	abort prematurely. Patch by [sL].  
+
+2002-09-21 20:40  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/irc.c:
+
+	Don't "want ops" in modeless (+) channels. Patch by BarkerJr.  
+
 2002-09-15 19:26  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/net.c, src/patch.h:
