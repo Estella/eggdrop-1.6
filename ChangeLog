@@ -1,3 +1,9 @@
+2003-03-26 00:19  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, scripts/getops.tcl, src/patch.h:
+
+	* Fixed getops timer handling. Patch by PPSlim.  
+
 2003-03-24 07:29  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/: compiling.FAQ, html/compiling.html:
