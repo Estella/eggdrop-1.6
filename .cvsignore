@@ -1,0 +1,17 @@
+ChangeLog
+autom4te*.cache
+confdefs.h
+config.cache
+config.h
+config.log
+config.status
+Makefile
+eggdrop
+lush.h
+aclocal.m4
+EGGMOD.stamp
+.known_modules
+.modules
+*.so
+*.dll
+*.exe
