@@ -1,3 +1,15 @@
+2003-03-24 02:48  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/tclchan.c:
+
+	* 8.4 fixes.  
+
+2003-03-24 02:46  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/tclchan.c:
+
+	* Tcl 8.4 fixes from stdarg's patch.  
+
 2003-03-24 02:18  Will Buckner <wcc@techmonkeys.org>
 
 	* src/mod/channels.mod/tclchan.c:
