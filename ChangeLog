@@ -1,3 +1,11 @@
+2004-06-12 01:24  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/chanprog.c, src/eggdrop.h, src/patch.h,
+	src/userrec.c:
+
+	- Cleaned up and optimized rmspace() and fixfrom().  
+	* Patch by: Sup 
+
 2004-06-11 19:17  Will Buckner <wcc@techmonkeys.org>
 
 	* configure:
