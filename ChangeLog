@@ -1,3 +1,12 @@
+2003-01-15 00:35  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/patch.h, src/mod/irc.mod/chan.c:
+
+	The NICK bind type now gets triggered even if the nickname isn't 
+	found in any channels (i.e. when the bot's nickname changes before
+	it joins channels). Patch by BarkerJr.  
+
 2003-01-02 02:42  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/tcl-commands.doc, doc/html/tcl-commands.html, src/patch.h:
