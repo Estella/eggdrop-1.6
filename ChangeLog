@@ -1,3 +1,18 @@
+2003-01-20 08:54  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: dccutil.c, patch.h:
+
+	Fixed a segfault in killtransfer() with non-transfer connections.  
+
+2003-01-20 08:51  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/modules.c, src/patch.h, src/proto.h,
+	src/userrec.c, src/mod/module.h, src/mod/channels.mod/userchan.c,
+	src/mod/share.mod/share.c:
+
+	Ignores are now saved if channels.mod is not loaded. Fixes bug 285.  
+	Found by BarkerJr.  
+
 2003-01-18 04:34  Will Buckner <wcc@techmonkeys.org>
 
 	* src/misc.c:
