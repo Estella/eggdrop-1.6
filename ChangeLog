@@ -1,3 +1,25 @@
+2003-05-07 04:57  Will Buckner <wcc@techmonkeys.org>
+
+	* src/compat/inet_ntop.c:
+
+	* Indenting.  
+
+2003-05-07 04:46  Will Buckner <wcc@techmonkeys.org>
+
+	* configure:
+
+	* Ran autoconf 2.54.  
+
+2003-05-07 04:45  Will Buckner <wcc@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, config.h.in, configure.in,
+	doc/UPDATES1.6, src/eggdrop.h, src/modules.c, src/patch.h,
+	src/compat/inet_ntop.c, src/compat/inet_ntop.h:
+
+	* Don't compile inet_ntop compatability code unless USE_IPV6 is
+	defined.  
+	* typedef socklen_t to int if non-existant.  
+
 2003-05-07 00:23  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/html/mod-server.html, doc/settings/mod.server,
