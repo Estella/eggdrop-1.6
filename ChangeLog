@@ -1,3 +1,9 @@
+2003-11-23 16:10  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/compiling.FAQ, doc/html/compiling.html, src/patch.h:
+
+	* Small typo fix.  
+
 2003-11-01 23:26  Will Buckner <wcc@techmonkeys.org>
 
 	* NEWS, acconfig.h, aclocal.m4, config.h.in, configure,
