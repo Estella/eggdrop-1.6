@@ -1,3 +1,10 @@
+2003-02-06 20:15  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botnet.c, src/cmds.c, src/patch.h,
+	src/mod/assoc.mod/assoc.c:
+
+	* GLOBAL_CHANS wasn't used everywhere it should be.  
+
 2003-02-05 04:17  Will Buckner <wcc@techmonkeys.org>
 
 	* src/dccutil.c:
