@@ -1,3 +1,9 @@
+2002-11-22 23:36  Will Buckner <wcc@techmonkeys.org>
+
+	* configure:
+
+	Updated autoconf to 2.54.  
+
 2002-11-22 23:29  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: dcc.c, net.c, patch.h:
