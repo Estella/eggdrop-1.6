@@ -1,3 +1,9 @@
+2003-04-30 03:47  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: misc.c, net.c, patch.h:
+
+	* IPv6 fixes.  
+
 2003-04-17 08:29  stdarg <stdarg@techmonkeys.org>
 
 	* src/misc.c:
