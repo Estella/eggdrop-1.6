@@ -1,3 +1,10 @@
+2003-05-11 23:53  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/tclmisc.c:
+
+	* Fixed output of tcl_duration to not return extra spaces. Found by
+	Wanderer.  
+
 2003-05-08 01:51  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/irc.mod/cmdsirc.c:
