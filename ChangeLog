@@ -1,3 +1,10 @@
+2003-02-15 19:42  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, users.c:
+
+	* Sigh, the igrec structure is different than the maskrec structure
+	:/.  
+
 2003-02-15 08:59  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/users.c:
