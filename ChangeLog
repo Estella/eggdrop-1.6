@@ -1,3 +1,10 @@
+2002-09-10 02:22  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/eggdrop.h, src/patch.h,
+	src/mod/transfer.mod/transfer.c:
+
+	Fixed a possible buffer overflow in raw_dcc_resend_send().  
+
 2002-09-09 23:14  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, misc/modconfig, src/patch.h:
