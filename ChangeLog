@@ -1,3 +1,11 @@
+2003-05-05 00:22  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/patch.howto, doc/tcl-commands.doc,
+	doc/text-substitutions.doc, doc/html/app-textsub.html,
+	doc/html/tcl-commands.html, src/main.c, src/patch.h:
+
+	* Start of 1.6.16.  
+
 2003-05-04 22:04  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/patch.howto, doc/tcl-commands.doc,
