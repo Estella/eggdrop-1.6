@@ -1,3 +1,9 @@
+2003-03-11 01:41  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, tcl.c:
+
+	* enable-simul compat var should be set to 1.  
+
 2003-03-11 01:22  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, language/core.danish.lang,
