@@ -1,3 +1,19 @@
+2003-02-28 04:01  Will Buckner <wcc@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, config.h.in, configure, doc/UPDATES1.6,
+	src/patch.h, src/compat/snprintf.c, src/compat/snprintf.h:
+
+	* We should compile on Tru64 UNIX now. The problem was due to
+	  snprintf() and vsnprintf() apparently being in a shared
+	  'compatability' library on hese systems (from what I could get out
+	of their horrible documentation).  
+	
+	  We will now use Eggdrop's snprintf() and vsnprintf() compatablity 
+	  functions for OSF1/Tru64/Digital UNIX. Could anyone with access to
+	  a Tru64 system please verify that Eggdrop compiles fine on it now? 
+	
+	  Reported by Shane.  
+
 2003-02-27 12:15  Will Buckner <wcc@techmonkeys.org>
 
 	* config.h.in, configure, src/patch.h:
