@@ -1,3 +1,16 @@
+2004-01-13 01:30  Will Buckner <wcc@techmonkeys.org>
+
+	* .cvsignore, INSTALL, README, aclocal.m4, eggdrop.conf,
+	doc/tcl-commands.doc, doc/html/egg-core.html,
+	doc/html/install.html, doc/html/readme.html,
+	doc/html/tcl-commands.html, doc/settings/core.settings,
+	help/set/cmds1.help, src/net.c, src/patch.h:
+
+	* Fixes from select_argtypes.  
+	* Doc updates.  
+	* More small build-process fixes.  
+	* More .cvsignore stuff.  
+
 2004-01-12 07:49  Will Buckner <wcc@techmonkeys.org>
 
 	* aclocal.m4, config.h.in, configure, configure.ac, src/modules.c,
