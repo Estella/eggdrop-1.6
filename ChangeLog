@@ -1,3 +1,15 @@
+2002-09-27 22:55  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/modules.c, src/patch.h, src/mod/module.h:
+
+	Exported tell_bottree() to modules. Patch by Mo-Ize.  
+
+2002-09-27 22:44  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/misc.c, src/patch.h:
+
+	Optimized logging functions. Patch by BarkerJr.  
+
 2002-09-27 22:16  Will Buckner <wcc@techmonkeys.org>
 
 	* CONTENTS, INSTALL, Makefile.in, NEWS, README,
