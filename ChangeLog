@@ -1,3 +1,10 @@
+2003-02-27 02:36  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c:
+
+	* '~' and '&' are now correctly recognized as a meaning a user has
+	  ops on a channel. Patch by BarkerJr.  
+
 2003-02-26 06:16  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/: tcl.c, tclmisc.c:
