@@ -1,3 +1,9 @@
+2003-03-21 22:56  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/transfer.mod/language/transfer.danish.lang:
+
+	* One more danish language fix.  
+
 2003-03-20 00:10  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/assoc.mod/language/assoc.danish.lang,
