@@ -1,3 +1,13 @@
+2002-12-24 03:33  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botcmd.c, src/botnet.c, src/cmds.c,
+	src/patch.h, src/proto.h, src/tcldcc.c:
+
+	Show who unlinked a bot when unlinked remotely. Patch by BarkerJr.  
+	
+	Note: modified to show botnetnick instead of "script" when a bot is 
+	      unlinked via the 'unlink' Tcl command.  
+
 2002-12-24 03:10  Will Buckner <wcc@techmonkeys.org>
 
 	* aclocal.m4, configure, src/patch.h:
