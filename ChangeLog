@@ -1,3 +1,10 @@
+2002-10-08 02:04  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/channels.c:
+
+	[ban/exempt/invite]-time were not being saved to the channel file.
+	Patch by BarkerJr.  
+
 2002-10-08 01:21  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/irc.c:
