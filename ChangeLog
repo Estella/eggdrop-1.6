@@ -1,3 +1,28 @@
+2003-04-01 05:33  Will Buckner <wcc@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, config.h.in, configure, configure.in,
+	src/Makefile.in, src/botnet.c, src/cmds.c, src/dcc.c,
+	src/eggdrop.h, src/main.c, src/modules.c, src/net.c, src/proto.h,
+	src/tcl.c, src/tcldcc.c, src/tclmisc.c, src/compat/Makefile.in,
+	src/compat/compat.h, src/compat/inet_aton.c, src/md5/Makefile.in,
+	src/mod/Makefile.in, src/mod/eggautoconf, src/mod/module.h,
+	src/mod/assoc.mod/Makefile, src/mod/blowfish.mod/Makefile,
+	src/mod/channels.mod/Makefile, src/mod/compress.mod/Makefile.in,
+	src/mod/console.mod/Makefile, src/mod/ctcp.mod/Makefile,
+	src/mod/dns.mod/Makefile.in, src/mod/dns.mod/configure,
+	src/mod/dns.mod/configure.in, src/mod/dns.mod/dns.c,
+	src/mod/filesys.mod/Makefile, src/mod/filesys.mod/filesys.c,
+	src/mod/irc.mod/Makefile, src/mod/notes.mod/Makefile,
+	src/mod/seen.mod/Makefile, src/mod/server.mod/Makefile,
+	src/mod/server.mod/server.c, src/mod/server.mod/servmsg.c,
+	src/mod/share.mod/Makefile, src/mod/share.mod/share.c,
+	src/mod/transfer.mod/Makefile, src/mod/transfer.mod/transfer.c,
+	src/mod/uptime.mod/Makefile, src/mod/wire.mod/Makefile,
+	src/mod/woobie.mod/Makefile:
+
+	* Added the IPv6 patch to CVS. This is not 100% complete yet. Please
+	  test and improve! :P 
+
 2003-03-31 12:03  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/cmds.c, src/patch.h:
