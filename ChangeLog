@@ -1,3 +1,15 @@
+2003-01-29 06:13  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/tclchan.c:
+
+	[no log message] 
+
+2003-01-29 06:12  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, tclegg.h, mod/channels.mod/tclchan.c:
+
+	More indenting fixes.  
+
 2003-01-29 05:48  Will Buckner <wcc@techmonkeys.org>
 
 	* help/cmds1.help, help/cmds2.help, help/core.help, src/chanprog.c,
