@@ -1,3 +1,10 @@
+2003-03-01 08:27  Will Buckner <wcc@techmonkeys.org>
+
+	* CONTENTS, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/patch.h:
+
+	* Documentation updates.  
+
 2003-02-28 23:07  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/transfer.mod/transfer.c:
