@@ -1,3 +1,17 @@
+2004-06-13 21:02  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: chanprog.c, patch.h:
+
+	* And revision 4! Tested this time, should work.. but, if anyone
+	  else wants to look over rmspace() and fixfrom() just to make sure,
+	  that'd probably be good.  Patch by Sup.  
+
+2004-06-13 17:34  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, userrec.c:
+
+	* Fix to fixfrom() from cleanups1.6.  
+
 2004-06-12 21:00  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/flags.c, src/patch.h:
