@@ -1,3 +1,9 @@
+2003-03-04 09:02  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/patch.howto:
+
+	* Patch howto updates.  
+
 2003-03-04 08:51  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/botnet.c, src/chan.h, src/cmds.c, src/dcc.c,
