@@ -1,3 +1,14 @@
+2003-04-17 01:55  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: botnet.c, cmds.c, dcc.c, eggdrop.h, main.c, main.h,
+	modules.c, net.c, patch.h, proto.h, tcl.c, tcldcc.c, tclmisc.c,
+	mod/module.h, mod/dns.mod/dns.c, mod/filesys.mod/filesys.c,
+	mod/server.mod/server.c, mod/server.mod/servmsg.c,
+	mod/share.mod/share.c, mod/transfer.mod/transfer.c:
+
+	* IPv6 indenting.  
+	* Misc IPv6 fixes.  
+
 2003-04-16 21:53  Will Buckner <wcc@techmonkeys.org>
 
 	* misc/addpatch, src/patch.h:
