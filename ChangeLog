@@ -1,3 +1,9 @@
+2003-05-07 20:41  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, src/patch.h:
+
+	* More socklen_t fixes.  
+
 2003-05-07 04:57  Will Buckner <wcc@techmonkeys.org>
 
 	* src/compat/inet_ntop.c:
