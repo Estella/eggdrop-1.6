@@ -2589,8 +2589,7 @@
 
 	* src/mod/irc.mod/tclirc.c:
 
-	Fixed multiple crashes introduced by TaKeDa, test your patches,
-	mmmkay? 
+	Fixed multiple crashes introduced by another patch 
 
 2001-10-05 09:21  Matthew Hallacy <poptix@techmonkeys.org>
 
