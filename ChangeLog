@@ -1,3 +1,27 @@
+2004-01-18 03:57  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure:
+
+	* Small fix from last commit.  
+
+2004-01-18 03:50  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, src/patch.h:
+
+	* More build process stuff.  
+
+2004-01-18 02:11  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, configure.ac, doc/COMPILING-FAQ,
+	src/cmds.c, src/patch.h:
+
+	* More build process/build process documentation updates and
+	  portability stuff.  
+	
+	* Changed trace (back?) to +t as it should be. This is a botnet
+	  command and should be set to 'botnet master' instead of all
+	partyline users.  
+
 2004-01-13 10:21  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/COMPILING-FAQ, doc/html/compiling.html, src/main.c,
