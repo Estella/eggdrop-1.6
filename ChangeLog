@@ -1,3 +1,18 @@
+2003-11-27 03:25  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/chanprog.c, src/modules.c, src/patch.h,
+	src/mod/irc.mod/irc.c:
+
+	* Cosmetic fixes to .status.  
+
+2003-11-27 03:20  Will Buckner <wcc@techmonkeys.org>
+
+	* language/core.danish.lang, language/core.english.lang,
+	language/core.french.lang, language/core.german.lang, src/botcmd.c,
+	src/cmds.c, src/flags.c, src/lang.h, src/patch.h:
+
+	* Cosmetic fixes to .who.  
+
 2003-11-27 02:44  Will Buckner <wcc@techmonkeys.org>
 
 	* README, doc/text-substitutions.doc, doc/html/app-textsub.html,
