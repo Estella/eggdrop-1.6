@@ -1,3 +1,13 @@
+2004-01-06 10:34  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, config.h.in, configure, configure.in, doc/UPDATES1.6,
+	src/eggdrop.h, src/patch.h, src/mod/compress.mod/compress.c,
+	src/mod/irc.mod/msgcmds.c:
+
+	* Autoconf 2.59.  
+	* Mac OS X fixes.  
+	* Fixes from previous msg_status() changes.  
+
 2003-12-27 10:55  Tothwolf <tothwolf@techmonkeys.org>
 
 	* scripts/alltools.tcl:
