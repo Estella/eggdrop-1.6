@@ -1,3 +1,15 @@
+2002-11-03 23:33  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	Forgot patch.h.  
+
+2002-11-03 23:33  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/mod/channels.mod/tclchan.c:
+
+	Fixed the list format returned by tcl_channel_info(). Patch by MC_8.  
+
 2002-11-02 03:39  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/settings/core.settings:
