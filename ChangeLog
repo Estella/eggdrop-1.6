@@ -1,3 +1,17 @@
+2003-03-06 03:49  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/tcl.c, src/md5/md5c.c,
+	src/mod/transfer.mod/transferfstat.c, src/mod/uptime.mod/uptime.c:
+
+	* We weren't using the compat functions for memcpy() and memset() in
+	  some places.  
+
+2003-03-06 03:35  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, md5/md5.h, md5/md5c.c:
+
+	* src/md5/ should not have been indented.  
+
 2003-03-05 04:32  Will Buckner <wcc@techmonkeys.org>
 
 	* acconfig.h, aclocal.m4, config.h.in, configure, configure.in,
