@@ -1,3 +1,26 @@
+2003-03-04 08:51  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botnet.c, src/chan.h, src/cmds.c, src/dcc.c,
+	src/language.c, src/modules.c, src/net.c, src/patch.h, src/tcl.c,
+	src/tcldcc.c, src/tclegg.h, src/tclhash.c, src/tclhash.h,
+	src/compat/inet_aton.c, src/mod/channels.mod/cmdschan.c,
+	src/mod/channels.mod/tclchan.c, src/mod/compress.mod/compress.c,
+	src/mod/dns.mod/coredns.c, src/mod/filesys.mod/dbcompat.c,
+	src/mod/filesys.mod/filedb3.c, src/mod/filesys.mod/filesys.c,
+	src/mod/irc.mod/chan.c, src/mod/irc.mod/cmdsirc.c,
+	src/mod/irc.mod/irc.c, src/mod/irc.mod/mode.c,
+	src/mod/irc.mod/msgcmds.c, src/mod/seen.mod/seen.c,
+	src/mod/server.mod/server.c:
+
+	* WASHALFOP flag works now (fixed by Sven Trenkel).  
+	* Added NO_HALFOP_CHANMODES define to chan.h. When defined, only +b,
+	  +e, and +I modes can be set when the bot is a halfop.  
+	* Added NOHALFOPS_MODES define to define the modes the bot is not
+	  allowed to set as halfop. To prevent bans, exempts, and invites from
+	  being set as halfop, add these modes to NOHALFOPS_MODES.  
+	* Cleaned up a few things I noticed along the way, including more
+	  fixes from the indenting patch.  
+
 2003-03-04 07:01  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/compat/snprintf.c,
