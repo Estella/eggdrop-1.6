@@ -1,3 +1,10 @@
+2003-03-04 14:11  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/: patch.h, mod/module.h:
+
+	Added casts for nmalloc and nrealloc in the module symbol lookup
+	table.  
+
 2003-03-04 10:33  Tothwolf <tothwolf@techmonkeys.org>
 
 	* acconfig.h, aclocal.m4, config.h.in, configure,
