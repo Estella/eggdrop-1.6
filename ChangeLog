@@ -1,3 +1,9 @@
+2003-02-28 09:21  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/: patch.h, tcl.c, tclmisc.c:
+
+	Reverted Function cast changes and fixed a couple CONST typos.  
+
 2003-02-28 08:17  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/: main.h, patch.h, tclegg.h:
