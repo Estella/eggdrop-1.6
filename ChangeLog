@@ -1,3 +1,11 @@
+2003-03-07 07:02  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/cmdschan.c,
+	src/mod/channels.mod/tclchan.c:
+
+	* Show a meaningful error message when an invalid channel is added
+	  with cmd_pls_chan().  
+
 2003-03-07 06:42  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/transfer.mod/language/transfer.french.lang:
