@@ -1,3 +1,18 @@
+2002-11-23 19:40  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: chan.h, patch.h, mod/channels.mod/channels.c,
+	mod/irc.mod/chan.c, mod/irc.mod/mode.c:
+
+	Renamed CHANMODR (+M) to CHANMODREG. This is more descriptive and
+	will stop confusion with CHANMODER (+m).  
+
+2002-11-23 19:34  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/cmdsirc.c:
+
+	.say and .act now allow you to send a message to a moderated channel
+	when the bot has halfop status.  
+
 2002-11-23 03:16  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/main.c, src/patch.h:
