@@ -1,3 +1,15 @@
+2003-04-15 17:41  Jeff Fisher <guppy@techmonkeys.org>
+
+	* scripts/autobotchk:
+
+	oops, apparently -20 never did anything 
+
+2003-04-15 17:37  Jeff Fisher <guppy@techmonkeys.org>
+
+	* doc/UPDATES1.6, scripts/autobotchk:
+
+	fixed a few autobotchk things 
+
 2003-04-02 21:16  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, compat/inet_ntop.c:
