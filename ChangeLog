@@ -1,3 +1,10 @@
+2003-02-28 12:45  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
+
+	* flood-pub should be flood-chan when using 'channel get'. Patch by
+	ppslim.  
+
 2003-02-28 09:21  Tothwolf <tothwolf@techmonkeys.org>
 
 	* src/: patch.h, tcl.c, tclmisc.c:
