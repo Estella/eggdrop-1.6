@@ -1,3 +1,15 @@
+2002-12-27 20:27  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-channels.html,
+	doc/settings/mod.channels, doc/settings/mod.transfer, src/patch.h,
+	src/mod/channels.mod/channels.c, src/mod/transfer.mod/transfer.c:
+
+	* Reworded the comment above the addhost/ident unbinds (found by
+	persaukko).  
+	* Changed global-revenge-mode to 0 by default.  
+	* Added a short description of what a comment is and does for people
+	  that don't know Tcl but still want to run Eggdrop.  
+
 2002-12-26 02:21  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/Makefile.in, src/match.c, src/modules.c,
