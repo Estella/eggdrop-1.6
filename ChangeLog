@@ -1,3 +1,13 @@
+2004-01-10 08:41  Will Buckner <wcc@techmonkeys.org>
+
+	* language/core.danish.lang, language/core.english.lang,
+	language/core.french.lang, language/core.german.lang, src/patch.h,
+	src/mod/irc.mod/chan.c, src/mod/irc.mod/mode.c,
+	src/mod/server.mod/server.c, src/mod/server.mod/server.h:
+
+	* Fixes from server_crlf.  
+	* Add space between Banned: and kick reason. Found by reed.  
+
 2004-01-09 12:23  Will Buckner <wcc@techmonkeys.org>
 
 	* src/mod/server.mod/server.c:
