@@ -1,3 +1,16 @@
+2003-02-04 08:23  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/filesys.mod/files.c:
+
+	* Patch.h and indenting from stdarg's last commit :P.  
+
+2003-02-04 08:11  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/filesys.mod/files.c:
+
+	
+	* cd / and . work in filesys.mod 
+
 2003-02-04 07:51  Will Buckner <wcc@techmonkeys.org>
 
 	* src/patch.h:
