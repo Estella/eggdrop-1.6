@@ -1,3 +1,12 @@
+2002-10-08 04:25  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-irc.html,
+	doc/settings/mod.irc, src/chan.h, src/patch.h,
+	src/mod/irc.mod/irc.c:
+
+	Made the modes-per-line limit definable in src/chan.h. Patch by
+	Eule.  
+
 2002-10-08 02:04  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/channels.c:
