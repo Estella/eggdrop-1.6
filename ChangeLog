@@ -1,3 +1,9 @@
+2003-02-21 02:15  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/transfer.mod/transfer.c:
+
+	* Don't use the help queue for dcc sends or gets. Found by winkey.  
+
 2003-02-18 00:47  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/server.c:
