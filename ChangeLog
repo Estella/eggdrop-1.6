@@ -1,3 +1,10 @@
+2002-09-21 21:32  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/eggdrop.h, src/misc.c, src/patch.h:
+
+	Made the timestamp style definable in src/eggdrop.h. Patch by
+	BarkerJr.  
+
 2002-09-21 21:06  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/botcmd.c, src/patch.h:
