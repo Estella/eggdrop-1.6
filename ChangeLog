@@ -1,3 +1,12 @@
+2002-10-28 22:17  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/tclchan.c:
+
+	If global-ban-time/global-exempt-time/global-invite-time was set to
+	0, newban/newexempt/newinvite didn't work correctly without
+	specifying 'lifetime', as did ban-time/exempt-time/invite-time for a
+	channel with newchanban/newchanexempt/newchaninvite. Patch by NeoN.  
+
 2002-10-28 03:29  Will Buckner <wcc@techmonkeys.org>
 
 	* src/net.c:
