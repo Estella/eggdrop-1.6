@@ -1,3 +1,10 @@
+2003-12-23 22:13  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/userent.c, src/userrec.c:
+
+	* Truncate passwords at 30 chars instead of 15. Found by ting. Patch
+	  by Paladin.  
+
 2003-12-20 22:29  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/main.c, src/modules.c,
