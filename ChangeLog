@@ -1,3 +1,10 @@
+2003-02-04 07:10  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/filesys.mod/files.c:
+
+	
+	* malloc_strcpy to the rescue! 
+
 2003-02-04 06:47  stdarg <stdarg@techmonkeys.org>
 
 	* src/mod/filesys.mod/files.c:
