@@ -1,3 +1,16 @@
+2004-03-14 13:52  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/wire.mod/wire.c:
+
+	* Terminate wire_bot[] in wire.mod, fixing a crash. Patch by Bryan
+	Dolan.  
+
+2004-03-14 13:30  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dcc.c, src/patch.h:
+
+	* Fixed a segfault in dcc.c. Patch by daimonic.  
+
 2004-02-25 23:08  stdarg <stdarg@techmonkeys.org>
 
 	* src/chanprog.c:
