@@ -1,3 +1,9 @@
+2003-11-27 07:09  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/channels.c:
+
+	* More cosmetics...  
+
 2003-11-27 06:15  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/irc.mod/irc.c, mod/irc.mod/msgcmds.c:
