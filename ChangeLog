@@ -1,3 +1,10 @@
+2003-03-07 06:42  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/transfer.mod/language/transfer.french.lang:
+
+	* A french entry was missing in transfer.mod's language files.
+	  Translation by caesar.  
+
 2003-03-07 04:40  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/server.mod/server.c:
