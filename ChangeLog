@@ -1,3 +1,10 @@
+2003-02-26 06:16  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/: tcl.c, tclmisc.c:
+
+	Group some TCL_MAJOR_VERSION/TCL_MINOR_VERSION checks with
+	parenthesis.  
+
 2003-02-21 05:01  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/eggdrop.h, src/patch.h:
