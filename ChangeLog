@@ -1,3 +1,20 @@
+2004-05-20 22:39  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/server.c:
+
+	* Fix text sent to the server being terminated with "\x00\x0d\x0a" 
+	  instead of just "\x0d\x0a". Patch by Sven Trenkel.  
+
+2004-05-20 21:44  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h,
+	src/mod/transfer.mod/language/transfer.danish.lang,
+	src/mod/transfer.mod/language/transfer.english.lang,
+	src/mod/transfer.mod/language/transfer.french.lang,
+	src/mod/transfer.mod/language/transfer.german.lang:
+
+	* Small fix to transfer.mod lang files. Patch by winkey.  
+
 2004-04-30 07:51  Tothwolf <tothwolf@techmonkeys.org>
 
 	* doc/tcl-commands.doc, doc/html/tcl-commands.html,
