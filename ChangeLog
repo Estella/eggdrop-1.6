@@ -1,3 +1,9 @@
+2003-02-02 18:36  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/module.h:
+
+	* Fixed an unbalenced comment.  
+
 2003-02-02 18:24  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/help/channels.help,
