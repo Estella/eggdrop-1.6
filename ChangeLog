@@ -1,3 +1,17 @@
+2003-03-24 01:52  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/tclchan.c:
+
+	* Indenting and patch.h from last commit.  
+
+2003-03-24 01:36  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/channels.mod/tclchan.c:
+
+	
+	* Added string support to "channel get" -- it was left out of the
+	back-port.  
+
 2003-03-24 00:00  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
