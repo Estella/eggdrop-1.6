@@ -1,3 +1,10 @@
+2003-01-18 04:24  Will Buckner <wcc@techmonkeys.org>
+
+	* help/cmds1.help, src/misc.c, src/patch.h:
+
+	Fixed incorrect help information for +host. Non-+m/+t users cannot
+	add hosts to their own accounts. Found by Nilsy.  
+
 2003-01-18 01:58  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/dccutil.c, src/modules.c, src/patch.h,
