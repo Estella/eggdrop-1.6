@@ -1,3 +1,19 @@
+2003-03-10 05:57  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/channels.c,
+	src/mod/channels.mod/cmdschan.c:
+
+	Patch by Sven Trenkel: 
+	  * -ban <number> now works for channel bans.  
+	  * -ban <number> now removes the ban from the channel.  
+
+2003-03-10 05:33  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/userchan.c:
+
+	* Fixed another off-by-one error in u_del[ban/exempt/invite]. Found
+	  by BarkerJr.  
+
 2003-03-10 05:26  Will Buckner <wcc@techmonkeys.org>
 
 	* NEWS, doc/AUTHORS, doc/BANS, doc/PARTYLINE, doc/USERS,
