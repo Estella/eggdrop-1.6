@@ -1,3 +1,13 @@
+2002-08-02 23:50  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.advanced.conf, eggdrop.complete.conf, src/chan.h,
+	src/mod/channels.mod/channels.c, src/mod/channels.mod/channels.h,
+	src/mod/channels.mod/cmdschan.c, src/mod/channels.mod/tclchan.c,
+	src/mod/irc.mod/chan.c, src/mod/irc.mod/cmdsirc.c,
+	src/mod/irc.mod/irc.c:
+
+	Made ban-time a channel int.  
+
 2002-07-31 20:04  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
