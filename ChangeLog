@@ -1,3 +1,9 @@
+2002-08-21 01:57  Will Buckner <wcc@techmonkeys.org>
+
+	* configure, configure.in, doc/UPDATES1.6, src/patch.h:
+
+	Use the proper dynamic lib extention on Mac OSX. Patch by Mo-Ize.  
+
 2002-08-15 04:51  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
