@@ -1,3 +1,10 @@
+2003-01-29 07:24  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, userrec.c, mod/share.mod/share.c:
+
+	* Fixed a check variable from being reset to 1 incorrectly when
+	  writing userfiles.  
+
 2003-01-29 06:13  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/tclchan.c:
