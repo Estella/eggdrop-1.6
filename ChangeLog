@@ -1,3 +1,9 @@
+2003-05-13 20:06  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/tcl-commands.doc, doc/html/tcl-commands.html, src/patch.h:
+
+	* Tcl commands doc update by PPSlim.  
+
 2003-05-12 23:57  Will Buckner <wcc@techmonkeys.org>
 
 	* misc/addpatch, src/patch.h, src/tclmisc.c:
