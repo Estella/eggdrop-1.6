@@ -1,3 +1,14 @@
+2003-12-20 22:29  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/main.c, src/modules.c,
+	src/mod/blowfish.mod/modinfo, src/mod/dns.mod/configure,
+	src/mod/dns.mod/configure.in, src/mod/irc.mod/tclirc.c:
+
+	* Fixed a dns/bind configure issue with Cygwin. Patch by Kirben.  
+	* Fixed a typo in tcl_getchanjoin. Found by army. Patch by thommey.  
+	* Some main.c code formatting/indenting stuff.  
+	* Fixed a credit line in UPDATES1.6.  
+
 2003-12-15 06:18  Tothwolf <tothwolf@techmonkeys.org>
 
 	* aclocal.m4, configure:
