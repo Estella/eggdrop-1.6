@@ -1,3 +1,12 @@
+2003-03-05 04:32  Will Buckner <wcc@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, config.h.in, configure, configure.in,
+	doc/BUG-REPORT, src/patch.h, src/compat/snprintf.c,
+	src/compat/snprintf.h:
+
+	* Reverted C99 snprintf() stuff for now. This patch needed further
+	  testing before commit. It is creating many header conflicts, etc.  
+
 2003-03-05 03:24  stdarg <stdarg@techmonkeys.org>
 
 	* src/compat/snprintf.c:
