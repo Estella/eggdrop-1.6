@@ -1,3 +1,9 @@
+2003-03-01 08:31  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/chan.h, src/patch.h:
+
+	* The WASHALFOP flag now works correctly. Patch by Sven Trenkel.  
+
 2003-03-01 08:27  Will Buckner <wcc@techmonkeys.org>
 
 	* CONTENTS, doc/tcl-commands.doc, doc/html/tcl-commands.html,
