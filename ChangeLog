@@ -1,3 +1,14 @@
+2003-01-21 00:11  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dccutil.c, src/modules.c, src/tcl.c,
+	src/mod/module.h, src/mod/transfer.mod/transfer.c,
+	src/mod/transfer.mod/transfer.h:
+
+	Files copied to /tmp if copy-to-tmp is enabled were not erased when
+	a tcl_killdcc was preformed on a transfer idx. Fixing this required
+	that copy-to-tmp be moved to the core and then exported to modules.
+	I also cleaned up a few things I noticed along the way.  
+
 2003-01-20 08:54  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: dccutil.c, patch.h:
