@@ -1,3 +1,9 @@
+2003-03-24 00:00  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/tclchan.c:
+
+	* Fixed a Tcl_Merge memleak. Patch by TaKeDa.  
+
 2003-03-21 22:56  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/transfer.mod/language/transfer.danish.lang:
