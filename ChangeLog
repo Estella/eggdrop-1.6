@@ -1,3 +1,30 @@
+2003-01-23 02:13  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-server.html,
+	doc/settings/mod.server, src/chanprog.c, src/language.c,
+	src/match.c, src/misc_file.c, src/misc_file.h, src/modules.c,
+	src/patch.h, src/tcl.c, src/mod/module.h,
+	src/mod/filesys.mod/filesys.c, src/mod/irc.mod/msgcmds.c,
+	src/mod/server.mod/server.c, src/mod/server.mod/server.h,
+	src/mod/server.mod/servmsg.c, src/mod/transfer.mod/Makefile,
+	src/mod/transfer.mod/tcltransfer.c,
+	src/mod/transfer.mod/transfer.c, src/mod/transfer.mod/transfer.h,
+	src/mod/transfer.mod/transferfstat.c,
+	src/mod/transfer.mod/transferqueue.c,
+	src/mod/transfer.mod/help/set/transfer.help,
+	src/mod/transfer.mod/language/transfer.english.lang:
+
+	* Cleaned up transfer.mod a bit.  
+	* Fixed some quiet_reject related problems (found by Tothwolf).  
+	* More match cleanups.  
+	* Moved copy_to_tmp to the core to fix a bug causing tmp files to
+	  not be removed when a transfer connection is killed.  
+	* Moved quiet_reject to the core so it could be used by transfer.mod 
+	  without depending on server.mod.  
+	* Exported DCC_SEND and DCC_GET_PENDING in transfer.mod.  
+	* Added a file_readable() function for use in transfer.mod and a few 
+	  places in other modules and the core.  
+
 2003-01-21 00:53  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/main.c, src/misc.c, src/patch.h, src/tcl.c,
