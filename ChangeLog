@@ -1,3 +1,70 @@
+2004-06-06 00:03  stdarg <stdarg@techmonkeys.org>
+
+	* INSTALL, INSTALL:
+
+	[no log message] 
+
+2004-06-04 17:25  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/patch.h, src/mod/filesys.mod/tclfiles.c:
+
+	-- Small updates from tcl_mkdir patch...  
+
+2004-06-04 16:41  Will Buckner <wcc@techmonkeys.org>
+
+	* configure, doc/UPDATES1.6, src/patch.h,
+	src/mod/filesys.mod/tclfiles.c:
+
+	- Don't let .tcl mkdir create duplicate filedb entries.  
+	* Found by: fabulous - Patch by: Wingman 
+
+2004-06-04 14:07  Will Buckner <wcc@techmonkeys.org>
+
+	* .cvsignore, aclocal.m4, config.h.in, configure, configure.ac,
+	doc/UPDATES1.6, src/eggdrop.h, src/patch.h:
+
+	- Fixed a compile error related to varargs when using old Tcl
+	versions.  
+	* Found by: Thomas Neumayer - Patch by: Wcc 
+	
+	- Fixed a compile error on systems that don't have socklen_t.  
+	* Found by: Brad Edwards - Patch by: Wcc 
+	
+	-- .cvsignore stuff for autoscan.  
+
+2004-06-03 14:10  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, help/cmds1.help, help/cmds2.help,
+	src/eggdrop.h, src/patch.h, src/mod/irc.mod/cmdsirc.c:
+
+	* Fixed some indenting.  
+	* Make head -n 1, if existant, take precedence over -1 to suppress 
+	  warnings on newer versions of head. This will not affect systems 
+	  that do not support -n 1.  
+	* Help stuff.  
+
+2004-06-03 03:57  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	Testing.  
+
+2004-06-03 02:51  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	* Seeing if CVS works right now.  
+
+2004-06-02 06:58  Will Buckner <wcc@techmonkeys.org>
+
+	* configure, configure.ac, doc/COMPILING-FAQ, doc/PATCH-HOWTO,
+	doc/TEXT-SUBSTITUTIONS, doc/UPDATES1.6, doc/tcl-commands.doc,
+	doc/html/app-textsub.html, doc/html/compiling.html,
+	doc/html/tcl-commands.html, src/main.c, src/patch.h:
+
+	* Start of 1.6.17 :) 
+
 2004-06-01 00:59  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, help/core.help:
