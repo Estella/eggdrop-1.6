@@ -1,3 +1,22 @@
+2003-04-17 04:52  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: cmds.c, patch.h:
+
+	* Another IPv6 ifdef fix.  
+
+2003-04-17 04:38  Will Buckner <wcc@techmonkeys.org>
+
+	* CONTENTS, NEWS, eggdrop.conf, doc/CONTENTS, doc/IPV6,
+	doc/KNOWN-PROBLEMS, doc/MODULES, doc/compiling.FAQ,
+	doc/patch.howto, doc/html/egg-core.html, doc/html/ipv6.html,
+	doc/html/news.html, doc/html/tcl-commands.html,
+	doc/settings/CONTENTS, doc/settings/core.settings, src/cmds.c,
+	src/net.c, src/patch.h, src/tcl.c, text/CONTENTS:
+
+	* IPv6 doc updates.  
+	* More IPv6 fixes.  
+	* Misc. doc updates.  
+
 2003-04-17 01:55  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: botnet.c, cmds.c, dcc.c, eggdrop.h, main.c, main.h,
