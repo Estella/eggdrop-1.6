@@ -1,3 +1,18 @@
+2003-11-27 05:17  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/irc.mod/msgcmds.c:
+
+	* No point in exporting the var for this really.  
+
+2003-11-27 05:10  Will Buckner <wcc@techmonkeys.org>
+
+	* language/core.english.lang, src/chanprog.c, src/patch.h,
+	src/mod/irc.mod/msgcmds.c:
+
+	* Msg commands cosmetic cleanups.  
+	* More status cleanups.  
+	* Fixed a buffer overrun in msg_status().  
+
 2003-11-27 03:25  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/chanprog.c, src/modules.c, src/patch.h,
