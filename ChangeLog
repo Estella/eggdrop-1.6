@@ -1,3 +1,11 @@
+2004-04-30 07:51  Tothwolf <tothwolf@techmonkeys.org>
+
+	* doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/mod/server.mod/tclserv.c:
+
+	* Documentation fixes.  
+	* Cosmetic fixes for tcl_clearqueue and tcl_queuesize.  
+
 2004-04-13 03:57  Will Buckner <wcc@techmonkeys.org>
 
 	* README, doc/BUG-REPORT, doc/html/faqs.html, src/patch.h:
