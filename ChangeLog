@@ -1,3 +1,15 @@
+2003-02-16 08:59  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, language/core.danish.lang, src/patch.h,
+	src/mod/assoc.mod/language/assoc.danish.lang,
+	src/mod/console.mod/language/console.danish.lang,
+	src/mod/filesys.mod/language/filesys.danish.lang,
+	src/mod/notes.mod/language/notes.danish.lang,
+	src/mod/transfer.mod/language/transfer.danish.lang,
+	src/mod/wire.mod/language/wire.danish.lang:
+
+	* Added a set of Danish language files by TheAvatar.  
+
 2003-02-16 06:36  Will Buckner <wcc@techmonkeys.org>
 
 	* configure, src/patch.h:
