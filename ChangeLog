@@ -1,3 +1,23 @@
+2004-02-10 02:10  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/chanprog.c, src/match.c,
+	src/mod/server.mod/server.c:
+
+	* Indenting and stuff...  
+
+2004-02-10 01:58  Will Buckner <wcc@techmonkeys.org>
+
+	* .cvsignore:
+
+	* .cvsignore fixes.  
+
+2004-02-10 01:57  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/share.mod/share.c:
+
+	* Don't always set SHARE_OFFERED status in check_expired_tbufs().  
+	  Patch by: Luca De Roberto, Dania Stolfi, Giuseppe Caulo 
+
 2004-02-06 22:36  stdarg <stdarg@techmonkeys.org>
 
 	* src/: dcc.c, mem.c, mod/notes.mod/notes.c:
