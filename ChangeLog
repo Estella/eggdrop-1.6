@@ -1,3 +1,11 @@
+2003-12-27 10:55  Tothwolf <tothwolf@techmonkeys.org>
+
+	* scripts/alltools.tcl:
+
+	* Added matchbotattrany 
+	* Optimized ordnumber 
+	* More minor changes 
+
 2003-12-23 22:13  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/userent.c, src/userrec.c:
