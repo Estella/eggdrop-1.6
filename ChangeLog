@@ -1,3 +1,9 @@
+2004-02-14 20:11  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/notes.mod/notes.c:
+
+	* Small bugfix to notes.mod. Reported by Danil Boeije.  
+
 2004-02-10 02:10  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/chanprog.c, src/match.c,
