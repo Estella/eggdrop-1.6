@@ -1,3 +1,15 @@
+2004-02-01 06:13  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, language/core.danish.lang,
+	language/core.english.lang, src/botnet.c, src/patch.h,
+	src/mod/notes.mod/notes.c, src/mod/notes.mod/notes.h,
+	src/mod/notes.mod/language/notes.danish.lang,
+	src/mod/notes.mod/language/notes.english.lang,
+	src/mod/notes.mod/language/notes.french.lang,
+	src/mod/notes.mod/language/notes.german.lang:
+
+	* Cosmetic fixes to notes.mod. Found by: BarkerJr - Patch by: Wcc 
+
 2004-01-20 18:39  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/users.c:
