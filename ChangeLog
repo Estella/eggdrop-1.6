@@ -1,3 +1,9 @@
+2002-08-21 02:05  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botcmd.c, src/patch.h:
+
+	Show the number of hops in .trace's output. Patch by BarkerJr.  
+
 2002-08-21 01:57  Will Buckner <wcc@techmonkeys.org>
 
 	* configure, configure.in, doc/UPDATES1.6, src/patch.h:
