@@ -1,3 +1,17 @@
+2003-11-27 02:44  Will Buckner <wcc@techmonkeys.org>
+
+	* README, doc/text-substitutions.doc, doc/html/app-textsub.html,
+	doc/html/faqs.html, help/cmds1.help, help/cmds2.help,
+	help/core.help, src/dcc.c, src/eggdrop.h, src/patch.h,
+	src/mod/irc.mod/help/msg/irc.help,
+	src/mod/notes.mod/help/msg/notes.help,
+	src/mod/notes.mod/help/set/notes.help,
+	src/mod/notes.mod/language/notes.english.lang,
+	src/mod/notes.mod/language/notes.german.lang,
+	src/mod/server.mod/modinfo:
+
+	* Round 2.  
+
 2003-11-27 01:07  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/BOTNET, doc/BUG-REPORT, doc/tricks, doc/html/botnet.html,
