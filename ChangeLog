@@ -1,3 +1,12 @@
+2003-06-10 15:16  stdarg <stdarg@techmonkeys.org>
+
+	* acconfig.h, aclocal.m4, config.h.in, configure, src/main.c:
+
+	
+	* Make room for the core file if we're not stripping the files 
+	* When I do cvs diff config.h.in, there's one of those id tags in
+	it.. isn't that wrong? 
+
 2003-06-10 04:27  stdarg <stdarg@techmonkeys.org>
 
 	* aclocal.m4, configure:
