@@ -1,3 +1,9 @@
+2002-09-30 06:32  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: misc.c, patch.h:
+
+	More logging optimizations. Patch by BarkerJr.  
+
 2002-09-28 00:06  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/cmdsirc.c:
