@@ -1,3 +1,9 @@
+2002-11-02 03:39  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/settings/core.settings:
+
+	Fixed a typo in eggdrop.conf and core.settings (found by R33D33R).  
+
 2002-11-02 00:23  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, src/net.c, src/tcl.c:
