@@ -1,3 +1,9 @@
+2004-05-24 19:14  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/server.c:
+
+	* Change Undernet nicklen to 12.  
+
 2004-05-22 07:57  Will Buckner <wcc@techmonkeys.org>
 
 	* help/cmds1.help:
