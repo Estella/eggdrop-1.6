@@ -1,3 +1,13 @@
+2003-01-30 00:41  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-irc.html,
+	doc/html/mod-server.html, doc/settings/mod.irc,
+	doc/settings/mod.server, src/mod/irc.mod/irc.c,
+	src/mod/server.mod/server.h:
+
+	* Config file/doc updates.  
+	* Changed EFnet's max-bans/max-modes to 25.  
+
 2003-01-29 07:24  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, userrec.c, mod/share.mod/share.c:
