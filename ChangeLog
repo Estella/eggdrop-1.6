@@ -1,3 +1,13 @@
+2004-02-06 22:36  stdarg <stdarg@techmonkeys.org>
+
+	* src/: dcc.c, mem.c, mod/notes.mod/notes.c:
+
+	
+	* Fixed valgrind error in n_free (I think) 
+	* Fixed crash in dcc_chat regarding the filt bind 
+	* Small change to notes mod to fix seemingly cosmetic valgrind
+	error, we'll see if it worked 
+
 2004-02-04 02:40  stdarg <stdarg@techmonkeys.org>
 
 	* src/: chanprog.c, match.c, userrec.c, mod/server.mod/server.c:
