@@ -1,3 +1,10 @@
+2003-02-18 00:47  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/server.mod/server.c:
+
+	* Case-changes should be traced when the 'nick' Tcl variable is
+	modified.  
+
 2003-02-16 09:03  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6:
