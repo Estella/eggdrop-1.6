@@ -1,3 +1,30 @@
+2003-01-30 07:15  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: bg.c, botcmd.c, botmsg.c, botnet.c, chanprog.c, cmds.c,
+	dcc.c, dccutil.c, dns.c, flags.c, language.c, main.c, mem.c,
+	misc.c, modules.c, net.c, patch.h, tcl.c, tcldcc.c, tclhash.c,
+	tclmisc.c, tcluser.c, userent.c, userrec.c, users.c,
+	compat/inet_aton.c, compat/snprintf.c, mod/assoc.mod/assoc.c,
+	mod/blowfish.mod/blowfish.c, mod/channels.mod/channels.c,
+	mod/channels.mod/cmdschan.c, mod/channels.mod/tclchan.c,
+	mod/channels.mod/userchan.c, mod/compress.mod/compress.c,
+	mod/compress.mod/tclcompress.c, mod/console.mod/console.c,
+	mod/ctcp.mod/ctcp.c, mod/dns.mod/coredns.c, mod/dns.mod/dns.c,
+	mod/filesys.mod/dbcompat.c, mod/filesys.mod/filedb3.c,
+	mod/filesys.mod/filelist.c, mod/filesys.mod/files.c,
+	mod/filesys.mod/filesys.c, mod/filesys.mod/tclfiles.c,
+	mod/irc.mod/chan.c, mod/irc.mod/cmdsirc.c, mod/irc.mod/irc.c,
+	mod/irc.mod/mode.c, mod/irc.mod/msgcmds.c, mod/irc.mod/tclirc.c,
+	mod/notes.mod/cmdsnote.c, mod/notes.mod/notes.c,
+	mod/seen.mod/seen.c, mod/server.mod/cmdsserv.c,
+	mod/server.mod/server.c, mod/server.mod/servmsg.c,
+	mod/server.mod/tclserv.c, mod/share.mod/share.c,
+	mod/share.mod/uf_features.c, mod/transfer.mod/tcltransfer.c,
+	mod/transfer.mod/transfer.c, mod/transfer.mod/transferfstat.c,
+	mod/transfer.mod/transferqueue.c, mod/wire.mod/wire.c:
+
+	* We should have been using indent -ce (fixed).  
+
 2003-01-30 06:26  Will Buckner <wcc@techmonkeys.org>
 
 	* src/compat/gnu_strftime.c:
