@@ -1,3 +1,266 @@
+2003-12-15 06:18  Tothwolf <tothwolf@techmonkeys.org>
+
+	* aclocal.m4, configure:
+
+	* Sanity check for EGG_PROG_HEAD_1 autoconf macro.  
+
+2003-12-14 06:44  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/mod/filesys.mod/files.c:
+
+	* Indenting, UPDATES1.6...  
+
+2003-12-14 06:26  stdarg <stdarg@techmonkeys.org>
+
+	* src/mod/filesys.mod/files.c:
+
+	
+	* leftover putlog 
+
+2003-12-14 06:08  stdarg <stdarg@techmonkeys.org>
+
+	* src/: patch.h, mod/filesys.mod/files.c:
+
+	* Check for multiple sources in mv when moving onto a single dest
+	file. I think.  
+
+2003-12-14 06:04  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/man1/eggdrop.1, src/patch.h:
+
+	* man1 updates.  
+
+2003-12-14 05:17  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	* Grr.  
+
+2003-12-14 04:31  Will Buckner <wcc@techmonkeys.org>
+
+	* src/cmds.c:
+
+	* Ha.  
+
+2003-12-14 04:24  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/cmds.c:
+
+	* Allow any user to .whois their own handle.  
+	  Found by zeveroar at phreaker dot net (ZeveRoaRe RoeLt).  
+
+2003-12-13 22:06  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/chanprog.c, src/patch.h, src/mod/share.mod/share.c:
+
+	* Added a new EVNT type, "userfile-loaded", which is called after
+	  the bot's userfile has been loaded. Patch by darko``. Found by
+	wanderer.  
+
+2003-12-13 19:18  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/Makefile.in:
+
+	* Small fix.  
+
+2003-12-12 00:06  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botcmd.c, src/chan.h, src/dcc.c, src/patch.h:
+
+	* Fixed a few places where chan->name was being used instead of
+	  chan->dname.  Found by wanderer.  
+
+2003-12-11 23:37  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/tcldcc.c:
+
+	* hand2idx works for bots now. Found by BarkerJr.  
+
+2003-12-11 03:56  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/cmdschan.c:
+
+	* .stick/.unstick <number> now works for channel masks. Patch by
+	Sven Trenkel.  
+
+2003-12-11 01:30  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/channels.mod/userchan.c:
+
+	* Properly escape IPv6 masks in write_exempts() and write_invites().
+	  Patch by TaKeDa.  
+
+2003-12-11 01:23  Will Buckner <wcc@techmonkeys.org>
+
+	* CONTENTS, FEATURES, INSTALL, NEWS, README, doc/html/readme.html:
+
+	* Docs.  
+
+2003-12-11 00:37  Will Buckner <wcc@techmonkeys.org>
+
+	* src/mod/channels.mod/userchan.c:
+
+	* Works now; WEIRD. My tree must have been desynched.  
+
+2003-12-11 00:31  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/FIRST-SCRIPT, doc/PATCH-HOWTO,
+	src/mod/channels.mod/userchan.c:
+
+	* Doc updates.  
+	* Testing stick stuff.  
+
+2003-12-10 19:37  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/channels.mod/userchan.c:
+
+	* Small fix from num_delmask.  
+
+2003-12-10 19:04  Will Buckner <wcc@techmonkeys.org>
+
+	* Makefile.in, misc/modconfig, src/patch.h, src/mod/Makefile.in,
+	src/mod/assoc.mod/modinfo, src/mod/blowfish.mod/modinfo,
+	src/mod/channels.mod/modinfo, src/mod/compress.mod/modinfo,
+	src/mod/console.mod/modinfo, src/mod/ctcp.mod/modinfo,
+	src/mod/dns.mod/modinfo, src/mod/filesys.mod/modinfo,
+	src/mod/irc.mod/modinfo, src/mod/notes.mod/modinfo,
+	src/mod/seen.mod/modinfo, src/mod/server.mod/modinfo,
+	src/mod/share.mod/modinfo, src/mod/transfer.mod/modinfo,
+	src/mod/uptime.mod/modinfo, src/mod/wire.mod/modinfo,
+	src/mod/woobie.mod/modinfo:
+
+	* More build updates.  
+
+2003-12-10 05:21  Tothwolf <tothwolf@techmonkeys.org>
+
+	* aclocal.m4, configure, configure.in, doc/UPDATES1.6:
+
+	* Fix for nonworking 'head -1' in GNU Coreutils 5.0.  
+
+2003-12-10 01:37  Tothwolf <tothwolf@techmonkeys.org>
+
+	* src/dcc.c:
+
+	* Properly declare dcc_telnet_got_ident as static.  
+
+2003-12-09 22:22  Will Buckner <wcc@techmonkeys.org>
+
+	* src/patch.h:
+
+	* Forgot patch.h.  
+
+2003-12-09 22:21  Will Buckner <wcc@techmonkeys.org>
+
+	* Makefile.in, doc/Makefile.in, doc/UPDATES1.6, misc/modconfig,
+	scripts/Makefile.in, src/Makefile.in, src/dcc.c, src/eggdrop.h,
+	src/misc.c, src/compat/inet_aton.c, src/compat/snprintf.c,
+	src/mod/Makefile.in, src/mod/eggmod.m4,
+	src/mod/compress.mod/configure, src/mod/dns.mod/configure:
+
+	* Cosmetic updates to the build process.  
+	* ctype.h is*() functions are apparently unsafe unless recasted.  
+	  * Found by Teemu Hjelt.  
+
+2003-12-09 00:51  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/Makefile.in, src/patch.h:
+
+	* Small fix.  
+
+2003-12-09 00:42  Will Buckner <wcc@techmonkeys.org>
+
+	* PATCH-HOWTO, doc/PATCH-HOWTO, doc/TRICKS:
+
+	* Fixes from last commit.  
+
+2003-12-09 00:27  Will Buckner <wcc@techmonkeys.org>
+
+	* PATCH-HOWTO, doc/ABOUT, doc/AUTHORS, doc/BANS, doc/BOTNET,
+	doc/BUG-REPORT, doc/COMPILING-FAQ, doc/CONTENTS, doc/FIRST-SCRIPT,
+	doc/KNOWN-PROBLEMS, doc/MODULES, doc/Makefile.in, doc/PARTYLINE,
+	doc/TEXT-SUBSTITUTIONS, doc/UPDATES.pre1.5, doc/UPDATES1.5,
+	doc/UPDATES1.6, doc/USERS, doc/WEIRD-MESSAGES, doc/compiling.FAQ,
+	doc/first_script.txt, doc/patch.howto, doc/tcl-commands.doc,
+	doc/text-substitutions.doc, doc/tricks, doc/html/app-tricks.html,
+	src/patch.h:
+
+	* Quite a bit of doc updates.  
+	* Start using a new UPDATES1.6 format which allows for longer found
+	  by/patched by/descriptions. The pre-1.6.16 entries remain
+	  unmodified, and i guess they should stay that way for historical
+	purposes, *shrug*.  
+
+2003-12-07 21:49  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/misc.c, src/modules.c, src/patch.h,
+	src/proto.h, src/mod/module.h, src/mod/channels.mod/cmdschan.c,
+	src/mod/channels.mod/userchan.c:
+
+	* Bans, exempts, and invites starting with numbers can now be
+	  removed, stuck, and unstuck. Found by BarkerJr.  
+
+2003-12-04 05:57  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, src/patch.h, text/CONTENTS:
+
+	* Fixed head -1 problem.  
+
+2003-12-02 00:37  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/dns.c, src/patch.h:
+
+	* Fixed the very very horrible handling of arguments by
+	  tcl_dnslookup().  Found by wanderer. Patch by KuNgFo0 and Wcc.  
+
+2003-12-02 00:10  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, doc/UPDATES1.6, misc/config.guess,
+	src/patch.h:
+
+	* Reverted head.diff.  
+
+2003-12-01 03:19  Will Buckner <wcc@techmonkeys.org>
+
+	* aclocal.m4, configure, doc/UPDATES1.6, misc/config.guess,
+	src/patch.h:
+
+	* Changed head -1 to head -n 1. Patch by guppy. Found by ali3n.  
+
+2003-12-01 03:02  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6:
+
+	* Effing editor.  
+
+2003-12-01 02:54  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/patch.h, src/mod/irc.mod/chan.c:
+
+	* Fixed a bug causing the bot to rejoin when kicked from inactive
+	  channels.  This can happen when bot-server connection lag exists or
+	  queues become full. Patch by BarkerJr/Eule.  
+
+2003-11-30 21:42  Matthew Hallacy <poptix@techmonkeys.org>
+
+	* eggdrop.conf:
+
+	
+	
+	Added a space.  
+
+2003-11-30 21:39  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/UPDATES1.6, doc/html/mod-share.html,
+	doc/settings/mod.share, src/patch.h,
+	src/mod/assoc.mod/help/assoc.help,
+	src/mod/channels.mod/help/channels.help,
+	src/mod/channels.mod/help/set/channels.help,
+	src/mod/share.mod/help/share.help,
+	src/mod/share.mod/help/set/share.help:
+
+	* More help/doc updates.  
+
 2003-11-27 07:09  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/channels.mod/channels.c:
