@@ -1,3 +1,10 @@
+2003-04-17 08:29  stdarg <stdarg@techmonkeys.org>
+
+	* src/misc.c:
+
+	
+	* Fixed logfile suffix stray message bug.  
+
 2003-04-17 05:09  Will Buckner <wcc@techmonkeys.org>
 
 	* misc/addpatch, src/patch.h:
