@@ -1,3 +1,21 @@
+2004-06-11 06:06  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: botnet.c, dccutil.c, patch.h:
+
+	* Couple fixes from that last patch.  
+
+2004-06-11 05:53  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/botnet.c, src/chanprog.c, src/dccutil.c,
+	src/misc.c, src/net.c, src/patch.h, src/tcl.c, src/tclhash.c,
+	src/tclmisc.c, src/userrec.c, src/mod/assoc.mod/assoc.c,
+	src/mod/blowfish.mod/blowfish.c, src/mod/channels.mod/tclchan.c,
+	src/mod/dns.mod/coredns.c, src/mod/share.mod/share.c,
+	src/mod/transfer.mod/transferqueue.c, src/mod/wire.mod/wire.c:
+
+	- Remove some unneeded casts.  
+	* Patch by: darko`` 
+
 2004-06-10 20:36  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/filesys.mod/filedb3.c:
