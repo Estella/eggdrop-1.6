@@ -1,3 +1,11 @@
+2003-06-10 04:27  stdarg <stdarg@techmonkeys.org>
+
+	* aclocal.m4, configure:
+
+	
+	* Removed stripping, added --enable-strip option to configure. Needs
+	  testing since I don't know much about autoconf! 
+
 2003-06-09 01:49  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/mem.c, src/patch.h:
