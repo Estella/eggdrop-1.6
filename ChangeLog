@@ -1,3 +1,24 @@
+2003-03-08 04:29  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, language/core.danish.lang,
+	language/core.english.lang, language/core.french.lang,
+	language/core.german.lang, src/chanprog.c, src/modules.c,
+	src/patch.h, src/mod/assoc.mod/assoc.c,
+	src/mod/blowfish.mod/blowfish.c, src/mod/channels.mod/channels.c,
+	src/mod/compress.mod/compress.c, src/mod/dns.mod/dns.c,
+	src/mod/filesys.mod/filesys.c, src/mod/irc.mod/irc.c,
+	src/mod/notes.mod/notes.c, src/mod/seen.mod/seen.c,
+	src/mod/server.mod/server.c, src/mod/share.mod/share.c,
+	src/mod/transfer.mod/transfer.c, src/mod/transfer.mod/transfer.h,
+	src/mod/transfer.mod/language/transfer.danish.lang,
+	src/mod/transfer.mod/language/transfer.english.lang,
+	src/mod/transfer.mod/language/transfer.french.lang,
+	src/mod/transfer.mod/language/transfer.german.lang,
+	src/mod/uptime.mod/uptime.c, src/mod/wire.mod/wire.c,
+	src/mod/woobie.mod/woobie.c:
+
+	* Cleaned up the output of .status (mainly .status all).  
+
 2003-03-07 21:32  Will Buckner <wcc@techmonkeys.org>
 
 	* language/core.danish.lang, language/core.english.lang,
