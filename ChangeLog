@@ -1,3 +1,10 @@
+2003-03-07 04:40  Will Buckner <wcc@techmonkeys.org>
+
+	* src/: patch.h, mod/server.mod/server.c:
+
+	* Woops, realservername's memory should be calculated outside of the 
+	  serverlist loop.  
+
 2003-03-07 03:36  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: patch.h, mod/server.mod/server.c, mod/server.mod/servmsg.c:
