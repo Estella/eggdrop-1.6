@@ -1,3 +1,9 @@
+2002-09-15 19:26  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, src/net.c, src/patch.h:
+
+	Tell the user to set 'my-ip' when hostname self-lookup fails.  
+
 2002-09-11 02:14  Will Buckner <wcc@techmonkeys.org>
 
 	* src/: cmds.c, patch.h, mod/irc.mod/cmdsirc.c:
