@@ -1,3 +1,18 @@
+2003-03-07 21:32  Will Buckner <wcc@techmonkeys.org>
+
+	* language/core.danish.lang, language/core.english.lang,
+	language/core.french.lang, language/core.german.lang, src/patch.h,
+	src/mod/assoc.mod/language/assoc.danish.lang,
+	src/mod/console.mod/language/console.danish.lang,
+	src/mod/filesys.mod/language/filesys.danish.lang,
+	src/mod/notes.mod/language/notes.danish.lang,
+	src/mod/transfer.mod/language/transfer.danish.lang,
+	src/mod/transfer.mod/language/transfer.german.lang,
+	src/mod/wire.mod/language/wire.danish.lang:
+
+	* Danish language files were in PC format.  
+	* Fixed other small file formatting/Id tag issues.  
+
 2003-03-07 12:38  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/patch.h, src/mod/transfer.mod/transfer.h,
