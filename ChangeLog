@@ -1,3 +1,17 @@
+2003-08-16 21:26  Will Buckner <wcc@techmonkeys.org>
+
+	* help/cmds1.help, src/patch.h:
+
+	* Updates to help for +host. Found by MC_8. Patch by BarkerJr. This
+	  resolves bug 357.  
+
+2003-08-16 21:20  Will Buckner <wcc@techmonkeys.org>
+
+	* doc/UPDATES1.6, doc/tcl-commands.doc, doc/html/tcl-commands.html,
+	src/patch.h:
+
+	* Bind documentation updates. Found by |SmAsH|.  
+
 2003-08-16 20:12  Will Buckner <wcc@techmonkeys.org>
 
 	* doc/UPDATES1.6, src/dcc.c, src/modules.c, src/patch.h,
