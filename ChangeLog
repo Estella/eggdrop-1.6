@@ -1,3 +1,11 @@
+2003-01-28 23:14  Will Buckner <wcc@techmonkeys.org>
+
+	* eggdrop.conf, doc/tcl-commands.doc, doc/html/egg-core.html,
+	doc/html/mod-blowfish.html, doc/settings/core.settings,
+	doc/settings/mod.blowfish, src/patch.h:
+
+	More config-file documentation updates (logfile related).  
+
 2003-01-28 07:52  Will Buckner <wcc@techmonkeys.org>
 
 	* eggdrop.conf, doc/UPDATES1.6, src/patch.h:
